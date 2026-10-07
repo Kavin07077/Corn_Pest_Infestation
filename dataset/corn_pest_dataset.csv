@@ -1,0 +1,1213 @@
+Temperature,Humidity,Rainfall,Soil_Moisture,Wind_Speed,Crop_Age,Growth_Stage,Season,Location,Pest_Severity,Pest_Type
+30.5,81.4,159.4,85.7,7.4,31,Flowering,Kharif,South Zone,Medium,Stem Borer
+29.0,88.3,163.0,,9.4,64,Vegetative,Rabi,North Zone,Medium,Stem Borer
+28.6,80.1,147.3,61.6,3.7,43,Vegetative,Kharif,Central Zone,Medium,Stem Borer
+23.9,79.9,137.9,76.6,4.2,39,Flowering,Rabi,South Zone,Medium,Corn Rootworm
+27.9,83.9,131.7,73.5,5.9,46,Flowering,Kharif,East Zone,Medium,Corn Rootworm
+29.7,77.4,151.3,70.8,7.3,35,Flowering,Kharif,East Zone,High,Stem Borer
+22.8,89.3,69.8,57.6,9.6,46,Vegetative,Rabi,Central Zone,High,Pink Stem Borer
+27.1,82.8,81.2,65.7,8.5,54,Vegetative,Rabi,Central Zone,High,Stem Borer
+24.2,66.2,43.3,52.3,8.1,7,Seedling,Rabi,South Zone,High,Cutworm
+24.2,72.7,40.6,52.7,2.5,45,Flowering,Rabi,East Zone,Medium,Aphids
+30.8,69.7,136.3,82.3,11.6,35,Vegetative,Kharif,East Zone,Medium,White Grub
+34.9,53.3,45.4,47.3,18.4,13,Seedling,Kharif,Central Zone,Medium,Shoot Fly
+26.8,68.9,62.9,50.4,12.4,89,Maturity,Kharif,West Zone,Medium,Corn Earworm
+27.7,84.6,155.1,84.2,5.7,42,Vegetative,Rabi,South Zone,Medium,Corn Rootworm
+31.9,85.7,109.1,80.5,4.1,40,Vegetative,Kharif,South Zone,Medium,Fall Armyworm
+25.6,80.4,64.6,65.6,4.0,75,Flowering,Rabi,West Zone,Medium,Pink Stem Borer
+24.6,86.8,166.9,78.9,5.4,54,Vegetative,Rabi,South Zone,Medium,Corn Rootworm
+33.5,47.3,23.3,26.8,12.5,78,Maturity,Rabi,West Zone,High,Termites
+33.2,67.7,39.5,42.7,13.6,14,Seedling,Summer,North Zone,High,Shoot Fly
+27.3,79.5,116.5,68.0,11.3,27,Vegetative,Summer,West Zone,Medium,Fall Armyworm
+21.2,77.9,63.8,59.4,7.7,34,Flowering,Rabi,Central Zone,High,Pink Stem Borer
+31.0,83.3,166.1,79.8,8.8,31,Vegetative,Kharif,North Zone,Medium,White Grub
+29.2,39.8,20.6,,10.4,44,Maturity,Summer,West Zone,Medium,Termites
+28.8,69.8,61.6,69.1,12.3,84,Flowering,Summer,Central Zone,High,Corn Earworm
+30.0,64.5,113.1,48.8,11.8,87,Flowering,Summer,Central Zone,High,Corn Earworm
+28.4,75.0,59.8,65.7,7.0,42,Vegetative,Rabi,South Zone,High,Pink Stem Borer
+30.3,40.5,9.4,32.8,8.2,77,Vegetative,Rabi,North Zone,Medium,Termites
+32.6,78.9,130.3,80.7,4.9,53,Flowering,Kharif,South Zone,Medium,Stem Borer
+24.5,86.5,41.1,66.3,8.5,35,Vegetative,Rabi,North Zone,High,Pink Stem Borer
+37.3,30.1,6.8,33.1,11.9,26,Vegetative,Rabi,South Zone,High,Termites
+26.6,76.7,23.2,51.9,6.6,73,Maturity,Rabi,East Zone,Low,Aphids
+23.6,94.3,141.8,74.9,8.3,48,Flowering,Rabi,South Zone,Medium,Corn Rootworm
+19.1,70.5,62.4,47.6,17.9,7,Seedling,Kharif,Central Zone,Low,Cutworm
+36.2,46.6,39.0,28.5,8.7,39,Vegetative,Summer,North Zone,Low,Termites
+19.3,59.3,43.8,58.1,15.1,7,Seedling,Rabi,North Zone,Medium,Cutworm
+37.5,40.1,34.5,28.4,19.2,40,Maturity,Rabi,Central Zone,Low,Termites
+29.6,64.9,63.6,63.9,9.3,91,Maturity,Rabi,West Zone,Medium,Corn Earworm
+26.4,87.4,128.2,76.9,4.0,37,Vegetative,Kharif,East Zone,High,Corn Rootworm
+24.1,89.3,135.4,74.5,7.3,51,Flowering,Kharif,North Zone,Medium,Corn Rootworm
+25.8,80.6,133.8,82.3,4.7,46,Vegetative,Kharif,South Zone,Medium,Corn Rootworm
+36.1,44.5,30.8,36.3,6.9,67,Vegetative,Rabi,East Zone,Low,Termites
+27.7,75.1,178.0,81.6,18.6,22,Seedling,Kharif,Central Zone,High,White Grub
+30.6,86.5,168.6,79.6,,33,Vegetative,Kharif,South Zone,Medium,Stem Borer
+26.5,81.1,124.1,79.1,7.2,56,Flowering,Kharif,North Zone,High,Corn Rootworm
+33.8,58.8,98.7,47.1,8.6,79,Flowering,Rabi,West Zone,High,Corn Earworm
+28.7,75.3,19.2,44.3,7.4,67,Maturity,Rabi,East Zone,Low,Aphids
+19.8,66.5,45.7,49.1,22.6,6,Seedling,Rabi,East Zone,High,Cutworm
+32.6,67.9,114.7,62.7,14.6,23,Flowering,Kharif,Central Zone,High,Fall Armyworm
+26.0,69.3,95.1,66.9,6.4,58,Maturity,Kharif,North Zone,Medium,Corn Earworm
+23.3,77.6,58.2,77.4,8.8,34,Vegetative,Rabi,North Zone,High,Pink Stem Borer
+21.5,84.6,108.2,72.2,5.0,45,Vegetative,Rabi,West Zone,Medium,Pink Stem Borer
+23.0,86.3,57.3,68.1,9.5,66,Flowering,Rabi,South Zone,High,Pink Stem Borer
+31.1,59.5,1.4,37.8,14.1,14,Seedling,Kharif,South Zone,High,Shoot Fly
+22.9,83.2,15.7,46.5,6.3,69,Maturity,Rabi,West Zone,Low,Aphids
+26.9,72.8,90.9,65.1,6.0,66,Vegetative,Rabi,Central Zone,Medium,Pink Stem Borer
+23.4,66.4,36.0,55.6,12.5,21,Seedling,Kharif,East Zone,Low,Cutworm
+29.7,84.6,187.6,66.3,13.3,45,Flowering,Rabi,West Zone,Medium,Stem Borer
+29.1,38.8,25.9,31.7,9.1,48,Vegetative,Rabi,North Zone,High,Termites
+27.5,67.0,73.2,66.8,11.1,71,Flowering,Kharif,East Zone,Medium,Corn Earworm
+24.3,79.5,33.1,56.5,7.3,78,Flowering,Summer,East Zone,Low,Aphids
+32.5,35.5,27.5,33.7,10.9,72,Maturity,Summer,West Zone,Low,Termites
+26.3,81.4,24.1,54.4,5.6,42,Flowering,Summer,East Zone,Low,Aphids
+27.5,76.6,101.5,66.5,13.9,83,Maturity,Summer,Central Zone,High,Corn Earworm
+31.1,81.4,102.2,70.6,11.6,27,Vegetative,Summer,Central Zone,Medium,Fall Armyworm
+31.2,81.0,89.5,84.7,9.0,43,Flowering,Summer,West Zone,Medium,Fall Armyworm
+25.0,76.9,100.8,65.0,11.9,57,Maturity,Rabi,East Zone,Medium,Corn Earworm
+22.0,58.7,46.1,48.9,17.9,12,Seedling,Rabi,Central Zone,Medium,Cutworm
+24.7,80.9,122.0,84.5,5.9,34,Vegetative,Kharif,West Zone,Medium,Corn Rootworm
+28.9,79.2,116.1,63.9,10.6,31,Flowering,Kharif,South Zone,High,Fall Armyworm
+26.6,67.8,15.9,44.3,5.6,50,Flowering,Summer,West Zone,Low,Aphids
+22.9,75.3,57.9,53.6,13.9,11,Seedling,Kharif,East Zone,Medium,Cutworm
+19.0,64.9,40.7,57.9,10.7,12,Seedling,Rabi,South Zone,High,Cutworm
+26.0,92.7,127.3,84.4,8.4,46,Flowering,Kharif,East Zone,High,Corn Rootworm
+33.8,41.8,20.1,30.6,8.7,61,Maturity,Summer,East Zone,Low,Termites
+28.1,73.0,114.0,67.7,16.5,92,Maturity,Kharif,Central Zone,Medium,Corn Earworm
+23.5,89.4,134.6,95.1,5.4,47,Flowering,Rabi,West Zone,Medium,Corn Rootworm
+22.3,77.0,31.8,61.3,6.5,42,Flowering,Rabi,West Zone,Medium,Pink Stem Borer
+31.4,79.7,156.9,75.6,10.3,53,Flowering,Summer,South Zone,High,Fall Armyworm
+31.2,63.9,30.2,57.8,19.1,20,Seedling,Summer,Central Zone,High,Shoot Fly
+32.1,46.3,70.3,44.2,19.3,28,Seedling,Summer,Central Zone,High,Shoot Fly
+22.0,72.0,30.1,50.4,5.1,66,Maturity,Summer,Central Zone,Medium,Aphids
+29.6,63.6,82.2,61.0,11.5,67,Maturity,Summer,South Zone,High,Corn Earworm
+25.4,74.4,42.4,73.9,8.7,66,Flowering,Rabi,Central Zone,High,Pink Stem Borer
+29.1,85.8,112.9,77.4,12.2,39,Vegetative,Kharif,Central Zone,High,Fall Armyworm
+28.1,88.8,65.5,71.8,9.3,71,Flowering,Rabi,West Zone,High,Pink Stem Borer
+33.4,66.2,184.0,85.4,4.6,36,Seedling,Kharif,South Zone,High,White Grub
+27.1,73.8,131.9,80.0,11.8,48,Flowering,Kharif,East Zone,Medium,Stem Borer
+22.2,76.4,24.3,39.7,13.8,11,Seedling,Rabi,North Zone,Low,Cutworm
+23.2,64.8,14.0,54.2,8.8,20,Seedling,Rabi,West Zone,Medium,Cutworm
+25.3,81.8,53.1,61.4,5.9,42,Flowering,Rabi,West Zone,High,Pink Stem Borer
+21.8,71.7,30.2,59.5,11.9,9,Seedling,Rabi,West Zone,Low,Cutworm
+19.6,64.3,29.5,50.0,9.2,10,Seedling,Kharif,Central Zone,Low,Cutworm
+27.9,65.2,34.5,56.9,13.6,8,Seedling,Kharif,West Zone,Low,Cutworm
+34.3,44.9,27.6,26.8,9.3,81,Maturity,Rabi,Central Zone,High,Termites
+24.4,73.5,92.1,90.2,10.3,60,Flowering,Kharif,West Zone,High,Corn Rootworm
+25.4,77.9,33.1,74.6,8.2,55,Maturity,Summer,East Zone,Low,Aphids
+29.7,66.3,103.8,79.4,7.1,17,Vegetative,Kharif,East Zone,Medium,White Grub
+30.2,54.8,33.8,56.8,18.1,17,Seedling,Summer,South Zone,Medium,Shoot Fly
+22.0,75.4,46.2,47.2,20.1,17,Seedling,Rabi,South Zone,High,Cutworm
+30.6,77.9,134.3,68.9,4.5,56,Flowering,Rabi,West Zone,High,Stem Borer
+33.3,87.5,75.0,72.5,10.0,33,Vegetative,Kharif,North Zone,High,Fall Armyworm
+23.0,77.0,54.4,65.3,6.3,54,Flowering,Rabi,East Zone,Medium,Pink Stem Borer
+26.7,74.7,27.6,42.7,4.8,64,Maturity,Rabi,South Zone,Medium,Aphids
+27.9,77.5,20.2,50.8,7.5,67,Maturity,Rabi,East Zone,Medium,Aphids
+21.7,87.7,113.4,85.4,5.5,35,Flowering,Kharif,West Zone,Medium,Corn Rootworm
+20.4,71.9,70.9,66.8,6.2,66,Vegetative,Rabi,West Zone,Medium,Pink Stem Borer
+29.6,60.0,83.7,50.3,8.0,84,Flowering,Kharif,West Zone,High,Corn Earworm
+33.1,53.1,44.2,52.0,13.0,13,Seedling,Kharif,East Zone,High,Shoot Fly
+26.7,79.4,143.2,90.6,2.1,42,Flowering,Rabi,West Zone,Medium,Corn Rootworm
+29.0,80.9,104.9,71.0,10.2,54,Vegetative,Kharif,North Zone,Medium,Fall Armyworm
+31.2,77.2,139.2,70.0,13.0,21,Vegetative,Kharif,Central Zone,Medium,Fall Armyworm
+27.0,67.1,76.3,63.2,8.7,70,Flowering,Rabi,Central Zone,Medium,Corn Earworm
+22.9,79.5,58.1,52.1,18.8,19,Seedling,Kharif,South Zone,Medium,Cutworm
+23.2,69.8,51.9,51.9,7.3,68,Vegetative,Rabi,East Zone,Medium,Pink Stem Borer
+29.5,88.7,149.8,73.5,10.1,67,Vegetative,Rabi,West Zone,High,Stem Borer
+15.4,66.6,56.6,41.7,18.6,7,Seedling,Rabi,East Zone,Low,Cutworm
+24.7,77.9,81.4,80.9,8.4,37,Vegetative,Rabi,Central Zone,High,Pink Stem Borer
+25.5,82.7,108.8,87.0,5.3,48,Vegetative,Rabi,West Zone,Medium,Corn Rootworm
+30.2,69.1,176.8,80.3,11.6,18,Vegetative,Kharif,West Zone,High,White Grub
+26.7,68.4,65.4,56.4,11.1,82,Flowering,Summer,Central Zone,High,Corn Earworm
+37.3,32.6,28.7,38.1,12.2,71,Maturity,Rabi,Central Zone,High,Termites
+30.7,71.1,17.6,35.8,9.0,60,Flowering,Rabi,West Zone,Medium,Aphids
+24.0,64.6,49.2,44.9,23.8,19,Seedling,Kharif,North Zone,Medium,Cutworm
+30.3,72.7,185.4,81.4,9.6,42,Vegetative,Kharif,West Zone,Medium,White Grub
+19.6,68.3,73.2,67.1,20.4,16,Seedling,Kharif,East Zone,Medium,Cutworm
+23.0,75.1,67.7,65.4,10.2,74,Flowering,Rabi,Central Zone,Medium,Pink Stem Borer
+16.9,75.7,42.6,51.2,10.0,7,Seedling,Rabi,West Zone,High,Cutworm
+25.9,76.9,162.6,69.0,5.8,32,Seedling,Kharif,West Zone,High,White Grub
+29.2,82.0,150.9,67.5,8.4,40,Seedling,Kharif,East Zone,Medium,White Grub
+21.2,46.1,44.2,52.9,16.8,17,Seedling,Rabi,Central Zone,Medium,Cutworm
+36.7,69.0,46.0,37.3,24.0,22,Seedling,Kharif,Central Zone,High,Shoot Fly
+33.1,60.1,49.6,46.4,14.5,18,Seedling,Kharif,East Zone,High,Shoot Fly
+24.6,72.3,29.7,45.7,4.6,54,Flowering,Rabi,North Zone,Medium,Aphids
+35.3,38.0,35.0,14.1,14.3,33,Vegetative,Summer,West Zone,High,Termites
+29.1,64.6,26.6,47.0,3.2,77,Maturity,Rabi,East Zone,Low,Aphids
+19.7,57.2,71.3,63.4,19.1,16,Seedling,Rabi,North Zone,Medium,Cutworm
+37.2,31.0,14.8,32.9,7.3,26,Maturity,Summer,Central Zone,Low,Termites
+27.8,73.8,26.3,55.7,6.9,48,Maturity,Rabi,Central Zone,Low,Aphids
+25.1,80.8,19.2,54.9,7.2,70,Maturity,Summer,South Zone,Medium,Aphids
+30.2,79.6,78.7,75.4,11.4,36,Vegetative,Kharif,West Zone,Medium,Fall Armyworm
+28.7,78.3,135.3,68.1,5.1,17,Seedling,Kharif,South Zone,Medium,White Grub
+25.2,73.6,101.6,50.4,11.4,49,Vegetative,Rabi,North Zone,Medium,Pink Stem Borer
+35.6,39.2,14.6,32.4,10.9,63,Vegetative,Rabi,West Zone,Medium,Termites
+28.8,75.6,31.5,47.1,5.9,77,Maturity,Summer,Central Zone,Low,Aphids
+30.1,75.2,99.6,80.2,8.4,43,Vegetative,Rabi,South Zone,Medium,Stem Borer
+21.4,65.1,50.2,50.1,10.9,10,Seedling,Rabi,North Zone,Low,Cutworm
+25.4,80.1,140.2,71.8,9.1,53,Flowering,Rabi,South Zone,Medium,Corn Rootworm
+27.2,76.3,39.8,63.3,8.0,58,Maturity,Rabi,East Zone,Low,Aphids
+20.3,73.6,58.8,65.2,9.0,72,Vegetative,Rabi,North Zone,High,Pink Stem Borer
+32.8,41.5,12.4,26.3,6.8,38,Vegetative,Rabi,North Zone,Low,Termites
+28.7,71.2,85.6,76.4,9.2,30,Vegetative,Summer,Central Zone,High,Fall Armyworm
+32.6,77.5,31.8,43.1,7.4,68,Flowering,Summer,West Zone,Medium,Aphids
+24.6,75.6,55.6,49.2,8.3,72,Maturity,Summer,Central Zone,Low,Aphids
+29.2,77.8,154.3,63.0,17.4,47,Flowering,Kharif,East Zone,High,Fall Armyworm
+32.8,75.2,125.8,75.8,13.9,25,Vegetative,Summer,Central Zone,High,Fall Armyworm
+27.1,74.4,103.8,67.4,13.9,37,Flowering,Kharif,West Zone,Medium,Fall Armyworm
+35.5,29.3,23.8,33.7,12.7,66,Maturity,Summer,West Zone,High,Termites
+32.7,77.0,176.1,77.5,4.8,17,Vegetative,Kharif,West Zone,High,White Grub
+33.9,61.7,54.1,36.1,11.2,17,Seedling,Summer,East Zone,Medium,Shoot Fly
+27.1,84.8,147.0,82.2,7.1,56,Flowering,Rabi,West Zone,Medium,Corn Rootworm
+31.4,79.9,142.9,71.8,6.9,50,Flowering,Rabi,West Zone,Medium,Stem Borer
+34.1,41.8,15.2,37.5,8.3,10,Maturity,Rabi,South Zone,Low,Termites
+34.4,36.5,34.5,31.2,14.1,56,Maturity,Rabi,South Zone,Low,Termites
+22.3,76.3,38.9,50.7,8.1,75,Flowering,Summer,West Zone,Medium,Aphids
+28.5,87.6,209.0,72.5,6.9,31,Vegetative,Kharif,Central Zone,High,Stem Borer
+34.6,85.9,96.9,64.6,11.2,55,Vegetative,Kharif,North Zone,Medium,Fall Armyworm
+26.6,66.5,124.9,72.6,8.9,45,Seedling,Kharif,West Zone,Medium,White Grub
+26.6,82.8,20.0,57.9,5.6,72,Maturity,Summer,West Zone,Medium,Aphids
+21.9,69.7,28.2,58.4,14.7,19,Seedling,Rabi,South Zone,Medium,Cutworm
+25.0,81.4,114.2,60.5,6.9,62,Vegetative,Rabi,East Zone,Medium,Pink Stem Borer
+23.8,82.2,114.1,89.1,9.8,46,Flowering,Kharif,East Zone,High,Corn Rootworm
+22.9,75.8,78.5,61.1,9.3,67,Flowering,Rabi,West Zone,Medium,Pink Stem Borer
+35.6,27.9,35.5,40.8,9.2,71,Maturity,Rabi,Central Zone,High,Termites
+24.2,86.4,138.4,86.0,11.0,54,Flowering,Kharif,Central Zone,Medium,Corn Rootworm
+24.6,81.0,95.5,77.6,6.9,39,Flowering,Kharif,West Zone,High,Corn Rootworm
+28.6,82.4,135.6,81.9,9.4,49,Vegetative,Rabi,South Zone,Medium,Corn Rootworm
+42.6,35.8,15.1,36.3,13.0,85,Maturity,Summer,North Zone,Medium,Termites
+40.5,44.7,16.4,33.5,14.3,68,Vegetative,Summer,South Zone,Medium,Termites
+31.1,84.0,172.0,83.2,11.5,60,Flowering,Rabi,North Zone,High,Stem Borer
+34.3,58.7,52.2,53.4,12.1,28,Seedling,Kharif,West Zone,High,Shoot Fly
+36.1,36.9,20.3,37.7,11.6,14,Vegetative,Summer,East Zone,High,Termites
+22.1,55.5,56.2,60.8,22.7,7,Seedling,Kharif,North Zone,Low,Cutworm
+29.2,73.3,168.7,89.0,8.8,20,Vegetative,Kharif,North Zone,Medium,White Grub
+33.6,64.9,52.8,41.9,15.7,8,Seedling,Kharif,East Zone,High,Shoot Fly
+27.1,79.9,133.3,77.8,9.4,34,Vegetative,Rabi,South Zone,Medium,Corn Rootworm
+24.2,66.6,92.5,72.5,,60,Maturity,Rabi,West Zone,Medium,Corn Earworm
+22.9,89.4,43.9,49.6,8.9,39,Vegetative,Rabi,East Zone,High,Pink Stem Borer
+28.7,65.9,184.8,79.7,7.6,23,Seedling,Kharif,East Zone,High,White Grub
+31.2,47.0,26.5,29.4,16.5,30,Vegetative,Rabi,Central Zone,Medium,Termites
+23.3,67.4,23.1,49.6,6.5,80,Maturity,Summer,East Zone,Medium,Aphids
+21.3,67.5,26.2,68.0,13.7,17,Seedling,Kharif,South Zone,Low,Cutworm
+27.2,86.7,141.4,85.4,7.9,47,Flowering,Rabi,West Zone,Medium,Corn Rootworm
+27.6,81.6,32.0,55.7,5.8,40,Flowering,Summer,South Zone,Medium,Aphids
+26.9,76.6,102.4,64.7,5.1,52,Vegetative,Rabi,Central Zone,Medium,Pink Stem Borer
+26.3,71.6,38.4,44.8,5.1,48,Flowering,Rabi,West Zone,Medium,Aphids
+26.3,75.7,49.4,55.3,14.3,43,Flowering,Kharif,East Zone,Medium,Fall Armyworm
+34.6,63.4,35.5,44.7,15.0,20,Seedling,Summer,South Zone,Medium,Shoot Fly
+31.5,52.0,28.8,28.7,11.1,56,Maturity,Summer,West Zone,Medium,Termites
+26.5,64.8,27.5,44.5,4.0,61,Flowering,Summer,South Zone,Low,Aphids
+21.2,77.6,54.6,49.9,16.3,17,Seedling,Kharif,West Zone,Low,Cutworm
+34.5,82.6,111.5,62.8,14.1,36,Flowering,Kharif,East Zone,High,Fall Armyworm
+27.0,79.5,36.4,58.4,4.9,77,Maturity,Summer,South Zone,Low,Aphids
+33.3,73.2,232.6,73.2,13.3,15,Vegetative,Kharif,North Zone,Medium,White Grub
+30.5,68.1,143.1,75.8,10.1,44,Vegetative,Kharif,North Zone,High,White Grub
+29.3,66.6,84.5,77.1,15.2,57,Flowering,Rabi,North Zone,High,Corn Earworm
+30.4,82.2,143.6,79.3,5.4,45,Vegetative,Rabi,East Zone,High,Stem Borer
+34.2,26.7,24.0,33.9,9.6,63,Vegetative,Rabi,North Zone,High,Termites
+33.9,64.6,108.7,79.6,11.6,34,Vegetative,Kharif,North Zone,High,White Grub
+36.4,56.3,66.2,44.7,14.4,13,Seedling,Kharif,South Zone,High,Shoot Fly
+34.8,65.2,26.4,55.3,19.8,10,Seedling,Kharif,North Zone,High,Shoot Fly
+23.7,87.0,142.4,83.6,5.9,42,Vegetative,Kharif,North Zone,High,Corn Rootworm
+20.0,64.8,62.6,59.9,12.5,25,Seedling,Rabi,East Zone,Low,Cutworm
+24.3,45.1,62.2,39.3,12.6,9,Seedling,Rabi,Central Zone,Low,Cutworm
+18.6,55.9,62.4,50.8,15.4,23,Seedling,Rabi,East Zone,Low,Cutworm
+27.9,72.9,86.5,49.7,13.0,93,Flowering,Rabi,South Zone,Medium,Corn Earworm
+33.5,27.5,15.7,39.0,13.6,42,Vegetative,Summer,North Zone,High,Termites
+27.1,67.9,78.6,76.6,11.1,55,Maturity,Kharif,North Zone,High,Corn Earworm
+29.1,76.2,89.8,57.9,9.4,71,Flowering,Kharif,Central Zone,High,Corn Earworm
+29.4,81.9,161.8,75.4,9.8,34,Flowering,Rabi,Central Zone,High,Stem Borer
+23.8,80.4,34.0,71.4,8.7,36,Flowering,Rabi,Central Zone,Medium,Pink Stem Borer
+33.5,63.5,162.2,66.9,15.3,53,Vegetative,Kharif,North Zone,High,Fall Armyworm
+28.4,81.1,83.7,63.0,17.7,50,Vegetative,Kharif,North Zone,High,Fall Armyworm
+29.5,73.3,190.5,81.5,9.4,37,Vegetative,Kharif,North Zone,Medium,White Grub
+33.7,79.2,49.1,46.4,,26,Seedling,Summer,South Zone,Medium,Shoot Fly
+28.8,80.9,36.4,40.9,9.3,79,Maturity,Summer,West Zone,Medium,Aphids
+31.6,42.4,12.5,29.6,12.0,87,Maturity,Summer,North Zone,High,Termites
+36.0,43.4,36.1,32.7,10.3,37,Maturity,Rabi,West Zone,Low,Termites
+34.9,69.5,31.6,49.2,17.5,21,Seedling,Kharif,North Zone,High,Shoot Fly
+32.4,71.0,47.7,45.9,14.4,20,Seedling,Kharif,East Zone,High,Shoot Fly
+28.0,63.4,56.2,72.8,,85,Flowering,Kharif,North Zone,Medium,Corn Earworm
+23.0,74.2,114.0,74.1,10.3,31,Flowering,Kharif,Central Zone,Medium,Corn Rootworm
+38.0,34.5,42.5,35.9,10.0,81,Maturity,Summer,East Zone,Medium,Termites
+20.0,96.5,95.3,72.1,9.0,28,Flowering,Rabi,North Zone,High,Corn Rootworm
+28.9,86.9,80.2,69.2,9.7,62,Vegetative,Rabi,West Zone,Medium,Pink Stem Borer
+24.3,67.0,46.6,54.4,11.0,8,Seedling,Kharif,East Zone,High,Cutworm
+28.9,75.2,137.0,68.1,5.2,47,Vegetative,Rabi,Central Zone,Medium,Stem Borer
+26.4,82.0,39.2,37.4,4.0,41,Flowering,Summer,East Zone,Medium,Aphids
+34.9,52.1,46.6,48.9,11.6,7,Seedling,Summer,Central Zone,Medium,Shoot Fly
+25.2,78.3,115.0,83.9,3.8,29,Vegetative,Kharif,Central Zone,Medium,Corn Rootworm
+23.3,64.9,53.3,57.0,19.5,17,Seedling,Kharif,East Zone,Medium,Cutworm
+28.3,67.4,87.4,64.3,10.1,78,Maturity,Summer,Central Zone,High,Corn Earworm
+24.1,76.5,58.1,55.2,11.5,35,Vegetative,Rabi,South Zone,Medium,Pink Stem Borer
+21.5,76.5,57.1,71.3,7.4,33,Vegetative,Rabi,West Zone,High,Pink Stem Borer
+27.5,81.6,137.0,77.0,11.3,56,Flowering,Rabi,South Zone,High,Corn Rootworm
+31.4,42.5,26.3,32.5,10.4,24,Maturity,Rabi,East Zone,Low,Termites
+23.7,80.2,67.4,71.7,,61,Flowering,Rabi,South Zone,Medium,Pink Stem Borer
+23.9,78.2,127.8,97.5,5.4,28,Vegetative,Kharif,South Zone,High,Corn Rootworm
+32.1,80.1,73.9,64.6,14.9,71,Maturity,Rabi,North Zone,Medium,Corn Earworm
+29.1,70.8,139.6,70.9,7.4,38,Vegetative,Kharif,South Zone,Medium,White Grub
+22.6,85.2,110.8,83.4,3.9,59,Vegetative,Rabi,West Zone,Medium,Corn Rootworm
+31.8,82.2,60.2,71.0,15.7,47,Vegetative,Kharif,East Zone,Medium,Fall Armyworm
+21.6,88.4,77.5,60.1,7.9,57,Flowering,Rabi,East Zone,High,Pink Stem Borer
+30.6,82.3,156.2,68.6,8.4,55,Vegetative,Rabi,Central Zone,Medium,Stem Borer
+26.5,71.3,128.4,72.9,12.1,41,Vegetative,Kharif,West Zone,Medium,White Grub
+31.7,84.4,107.2,72.8,11.0,45,Flowering,Rabi,West Zone,Medium,Stem Borer
+26.4,86.6,33.9,51.5,5.4,61,Flowering,Summer,North Zone,Low,Aphids
+35.4,38.8,27.1,35.7,,24,Vegetative,Rabi,South Zone,Medium,Termites
+18.0,52.1,52.6,45.1,5.4,8,Seedling,Rabi,South Zone,Medium,Cutworm
+29.0,85.0,84.9,66.7,10.2,93,Flowering,Summer,South Zone,Medium,Corn Earworm
+29.8,77.5,149.8,79.9,9.8,29,Vegetative,Kharif,East Zone,High,White Grub
+26.3,76.0,81.5,54.0,11.6,83,Flowering,Rabi,East Zone,High,Corn Earworm
+23.8,75.1,29.9,58.7,6.9,77,Flowering,Summer,East Zone,Low,Aphids
+29.9,76.9,208.7,81.9,9.0,29,Seedling,Kharif,East Zone,Medium,White Grub
+22.7,69.7,26.9,45.1,5.6,44,Flowering,Summer,Central Zone,Medium,Aphids
+35.2,44.2,19.3,32.9,11.2,15,Maturity,Summer,Central Zone,Medium,Termites
+25.1,66.4,155.0,69.5,10.5,31,Seedling,Kharif,West Zone,Medium,White Grub
+32.6,86.9,133.6,85.4,8.4,51,Vegetative,Kharif,South Zone,Medium,Stem Borer
+29.2,68.3,149.4,75.3,9.4,29,Seedling,Kharif,East Zone,High,White Grub
+26.4,75.0,34.4,59.5,7.9,64,Maturity,Summer,East Zone,Low,Aphids
+26.5,71.8,168.0,65.4,7.4,51,Vegetative,Rabi,East Zone,High,Stem Borer
+21.7,71.0,79.7,70.3,6.8,39,Flowering,Rabi,Central Zone,Medium,Pink Stem Borer
+21.5,66.7,92.8,48.2,10.6,77,Maturity,Summer,South Zone,High,Corn Earworm
+24.0,82.9,72.2,58.2,10.4,75,Vegetative,Rabi,Central Zone,High,Pink Stem Borer
+24.7,84.9,106.7,79.3,5.2,46,Vegetative,Kharif,Central Zone,High,Corn Rootworm
+32.7,73.7,29.4,33.7,20.1,7,Seedling,Kharif,South Zone,High,Shoot Fly
+21.4,60.3,60.6,49.5,21.3,15,Seedling,Kharif,South Zone,Low,Cutworm
+29.7,67.1,128.1,55.2,12.2,64,Flowering,Rabi,Central Zone,Medium,Corn Earworm
+35.9,50.4,35.6,30.2,8.7,77,Vegetative,Rabi,South Zone,High,Termites
+24.9,76.6,106.2,66.0,7.3,54,Vegetative,Rabi,South Zone,Medium,Pink Stem Borer
+24.4,73.3,52.5,73.4,6.7,40,Flowering,Rabi,West Zone,Medium,Pink Stem Borer
+30.9,64.3,67.8,50.0,18.5,28,Seedling,Summer,Central Zone,High,Shoot Fly
+24.1,67.9,45.0,47.4,5.5,68,Flowering,Rabi,West Zone,Medium,Aphids
+26.0,68.9,51.8,74.5,11.4,16,Seedling,Kharif,East Zone,Medium,Cutworm
+26.9,85.3,136.7,91.2,8.0,57,Flowering,Kharif,Central Zone,Medium,Corn Rootworm
+29.3,76.4,77.7,53.3,6.9,71,Flowering,Summer,East Zone,High,Corn Earworm
+29.1,56.4,9.0,28.7,10.2,23,Vegetative,Rabi,South Zone,Low,Termites
+26.8,79.1,38.6,45.3,5.7,68,Flowering,Summer,South Zone,Low,Aphids
+30.7,70.5,216.3,81.4,10.8,43,Vegetative,Kharif,West Zone,Medium,White Grub
+32.7,83.9,114.5,57.6,13.2,45,Flowering,Kharif,West Zone,Medium,Fall Armyworm
+28.2,79.9,157.6,83.7,8.1,53,Vegetative,Kharif,North Zone,High,Stem Borer
+33.6,73.6,53.6,63.2,17.0,11,Seedling,Summer,East Zone,Medium,Shoot Fly
+25.6,76.5,173.3,87.0,10.7,37,Seedling,Kharif,West Zone,High,White Grub
+23.7,73.9,66.2,59.0,6.8,30,Vegetative,Rabi,East Zone,Medium,Pink Stem Borer
+23.8,76.7,50.9,44.2,15.8,9,Seedling,Kharif,East Zone,Low,Cutworm
+25.6,60.7,43.0,55.1,10.9,14,Seedling,Rabi,South Zone,Low,Cutworm
+26.3,84.4,140.5,76.7,6.1,54,Vegetative,Kharif,Central Zone,High,Corn Rootworm
+37.2,37.0,37.3,27.6,11.7,12,Vegetative,Summer,West Zone,Medium,Termites
+33.3,70.9,66.0,55.8,15.8,42,Vegetative,Summer,South Zone,High,Fall Armyworm
+28.4,92.2,123.1,76.3,11.9,63,Flowering,Kharif,West Zone,Medium,Stem Borer
+35.0,84.4,202.3,85.2,10.5,16,Vegetative,Kharif,East Zone,High,White Grub
+32.9,75.2,89.5,68.0,11.5,42,Vegetative,Kharif,North Zone,Medium,Fall Armyworm
+23.1,83.5,87.2,65.6,11.0,51,Vegetative,Rabi,East Zone,Medium,Pink Stem Borer
+31.6,38.5,12.8,18.8,10.8,53,Vegetative,Rabi,West Zone,High,Termites
+27.7,79.1,97.6,51.8,15.6,63,Flowering,Summer,North Zone,High,Corn Earworm
+29.1,77.9,27.7,42.3,5.3,52,Flowering,Rabi,East Zone,Low,Aphids
+28.7,84.4,45.4,46.1,3.8,72,Maturity,Summer,North Zone,Medium,Aphids
+22.4,52.6,49.8,53.7,12.1,14,Seedling,Kharif,East Zone,Low,Cutworm
+22.0,77.6,24.7,40.6,0.3,47,Maturity,Summer,West Zone,Medium,Aphids
+24.9,93.9,171.5,79.3,5.8,46,Vegetative,Rabi,East Zone,High,Corn Rootworm
+36.4,32.0,23.0,34.6,14.7,44,Vegetative,Rabi,West Zone,Low,Termites
+23.8,79.0,54.2,59.2,7.5,41,Flowering,Rabi,North Zone,High,Pink Stem Borer
+30.2,85.7,115.9,85.4,7.3,50,Flowering,Rabi,Central Zone,High,Stem Borer
+25.0,81.3,69.4,87.3,8.5,35,Flowering,Rabi,North Zone,High,Corn Rootworm
+32.4,60.5,57.7,34.1,13.1,26,Seedling,Kharif,North Zone,High,Shoot Fly
+31.1,77.0,148.8,65.5,9.2,70,Flowering,Rabi,North Zone,Medium,Stem Borer
+27.9,60.3,108.3,54.1,7.6,93,Maturity,Rabi,South Zone,Medium,Corn Earworm
+29.9,86.6,109.5,75.4,9.1,45,Flowering,Rabi,Central Zone,High,Stem Borer
+32.7,78.9,100.8,61.4,12.3,29,Flowering,Kharif,East Zone,High,Fall Armyworm
+27.3,54.5,175.3,84.3,3.1,39,Seedling,Kharif,Central Zone,Medium,White Grub
+31.0,65.0,80.9,45.1,12.5,19,Seedling,Kharif,South Zone,High,Shoot Fly
+29.1,87.5,120.6,69.4,6.8,31,Vegetative,Rabi,Central Zone,High,Stem Borer
+27.6,82.5,188.7,77.3,7.4,46,Flowering,Rabi,Central Zone,Medium,Stem Borer
+25.3,67.2,38.8,49.4,5.6,71,Flowering,Rabi,North Zone,Low,Aphids
+38.0,73.8,133.7,75.0,11.9,20,Vegetative,Kharif,East Zone,Medium,White Grub
+33.2,48.5,63.8,40.3,21.6,9,Seedling,Kharif,South Zone,High,Shoot Fly
+30.7,67.3,110.6,60.5,12.6,78,Maturity,Kharif,South Zone,Medium,Corn Earworm
+29.2,64.9,72.1,68.2,9.0,70,Maturity,Kharif,Central Zone,High,Corn Earworm
+23.2,75.2,77.6,79.4,5.9,53,Flowering,Rabi,Central Zone,Medium,Pink Stem Borer
+29.5,87.6,137.6,78.2,5.3,34,Flowering,Rabi,Central Zone,High,Stem Borer
+25.9,84.1,154.6,89.1,12.2,51,Vegetative,Kharif,North Zone,High,Corn Rootworm
+31.4,74.0,166.8,75.5,9.8,29,Vegetative,Kharif,Central Zone,Medium,White Grub
+23.4,80.8,93.7,58.0,10.3,41,Vegetative,Rabi,Central Zone,High,Pink Stem Borer
+34.3,77.4,57.0,63.1,15.9,27,Flowering,Kharif,South Zone,High,Fall Armyworm
+27.9,64.0,74.9,66.7,11.6,75,Maturity,Kharif,Central Zone,High,Corn Earworm
+25.4,73.2,26.1,42.6,9.2,45,Maturity,Rabi,South Zone,Medium,Aphids
+25.2,81.1,45.2,58.0,5.1,79,Flowering,Rabi,South Zone,Low,Aphids
+24.8,79.9,53.7,67.3,5.6,68,Flowering,Rabi,North Zone,Medium,Pink Stem Borer
+31.9,80.1,146.0,77.0,7.4,32,Flowering,Kharif,Central Zone,High,Stem Borer
+32.5,75.6,131.8,57.2,12.4,51,Flowering,Summer,East Zone,High,Fall Armyworm
+34.8,66.0,136.3,81.6,9.4,22,Vegetative,Kharif,West Zone,High,White Grub
+30.2,84.0,159.0,82.8,9.0,33,Vegetative,Rabi,West Zone,High,Stem Borer
+29.4,76.0,226.5,77.1,6.6,21,Vegetative,Kharif,East Zone,Medium,White Grub
+35.2,59.0,17.4,50.9,13.1,18,Seedling,Kharif,East Zone,Medium,Shoot Fly
+34.7,42.7,21.9,34.3,9.7,81,Vegetative,Rabi,West Zone,Low,Termites
+30.5,81.0,162.2,79.3,5.7,47,Flowering,Kharif,North Zone,Medium,Stem Borer
+33.7,75.3,130.2,70.9,17.5,38,Vegetative,Summer,South Zone,High,Fall Armyworm
+27.4,67.9,84.6,57.6,12.4,75,Maturity,Summer,South Zone,High,Corn Earworm
+24.0,63.7,63.6,67.6,15.1,86,Maturity,Rabi,East Zone,High,Corn Earworm
+29.7,71.0,162.5,86.1,6.7,15,Seedling,Kharif,Central Zone,High,White Grub
+30.6,77.9,177.5,79.3,11.5,45,Seedling,Kharif,Central Zone,Medium,White Grub
+27.6,65.4,40.2,32.2,16.8,8,Seedling,Summer,West Zone,High,Shoot Fly
+26.7,79.3,87.2,,10.6,71,Flowering,Rabi,Central Zone,High,Pink Stem Borer
+35.1,81.7,111.9,55.2,11.3,26,Vegetative,Kharif,East Zone,High,Fall Armyworm
+23.3,95.9,125.6,82.7,8.1,48,Vegetative,Rabi,Central Zone,Medium,Corn Rootworm
+35.1,53.6,13.8,31.2,8.8,34,Maturity,Rabi,West Zone,Low,Termites
+31.0,35.1,19.6,27.4,8.9,67,Maturity,Summer,North Zone,Low,Termites
+22.2,84.6,92.4,86.6,7.2,48,Flowering,Rabi,South Zone,Medium,Corn Rootworm
+21.1,78.5,56.5,67.2,10.7,62,Flowering,Rabi,North Zone,Medium,Pink Stem Borer
+26.3,78.6,106.0,73.4,12.6,28,Flowering,Kharif,Central Zone,High,Fall Armyworm
+28.1,70.1,132.1,85.5,9.1,19,Seedling,Kharif,Central Zone,High,White Grub
+36.8,59.5,39.4,34.4,8.7,12,Seedling,Kharif,Central Zone,High,Shoot Fly
+29.8,62.1,57.6,33.9,18.1,23,Seedling,Kharif,West Zone,High,Shoot Fly
+29.8,78.7,150.3,75.2,11.2,43,Vegetative,Summer,West Zone,Medium,Fall Armyworm
+22.2,69.2,57.1,63.5,6.0,49,Vegetative,Rabi,East Zone,High,Pink Stem Borer
+23.7,80.4,66.0,60.4,8.3,66,Vegetative,Rabi,Central Zone,Medium,Pink Stem Borer
+31.1,65.5,209.4,77.3,9.0,20,Vegetative,Kharif,South Zone,Medium,White Grub
+32.8,79.2,133.8,70.3,10.2,27,Vegetative,Kharif,East Zone,High,Fall Armyworm
+25.7,79.3,132.7,81.8,6.6,34,Flowering,Kharif,Central Zone,High,Corn Rootworm
+23.7,70.6,60.1,65.6,8.3,60,Vegetative,Rabi,Central Zone,Medium,Pink Stem Borer
+18.9,73.9,32.0,63.7,15.7,22,Seedling,Kharif,West Zone,High,Cutworm
+33.1,54.2,8.1,35.5,14.0,58,Maturity,Summer,Central Zone,Medium,Termites
+31.7,71.1,46.2,47.0,15.9,24,Seedling,Kharif,Central Zone,High,Shoot Fly
+29.7,76.9,187.8,65.8,12.3,21,Seedling,Kharif,Central Zone,High,White Grub
+21.8,80.2,41.3,41.3,5.2,54,Maturity,Summer,West Zone,Low,Aphids
+30.8,58.3,45.4,50.5,19.6,22,Seedling,Kharif,East Zone,High,Shoot Fly
+32.3,79.8,133.7,63.2,6.0,66,Flowering,Rabi,South Zone,High,Stem Borer
+28.4,83.1,17.7,45.3,5.9,42,Maturity,Rabi,West Zone,Medium,Aphids
+26.7,71.0,34.2,46.2,6.0,70,Flowering,Rabi,Central Zone,Medium,Aphids
+27.4,75.0,25.6,49.1,5.8,48,Flowering,Rabi,North Zone,Low,Aphids
+33.9,37.9,36.0,33.4,10.1,38,Vegetative,Summer,West Zone,Low,Termites
+34.4,57.3,67.6,47.6,14.6,22,Seedling,Summer,North Zone,Medium,Shoot Fly
+36.3,27.4,8.7,22.8,11.4,30,Maturity,Rabi,South Zone,Medium,Termites
+30.3,86.2,36.4,54.0,2.4,60,Maturity,Rabi,Central Zone,Low,Aphids
+20.4,59.5,35.7,53.5,12.1,22,Seedling,Rabi,West Zone,Low,Cutworm
+23.1,74.5,63.5,61.9,16.2,57,Maturity,Rabi,East Zone,Medium,Corn Earworm
+28.7,65.3,102.8,76.8,17.9,20,Vegetative,Summer,North Zone,High,Fall Armyworm
+30.5,64.0,43.0,44.3,24.3,16,Seedling,Kharif,South Zone,High,Shoot Fly
+30.5,42.0,24.7,36.5,11.3,69,Maturity,Summer,East Zone,Low,Termites
+28.8,67.7,90.4,57.3,11.9,84,Maturity,Rabi,North Zone,Medium,Corn Earworm
+32.3,63.0,49.6,52.9,14.8,16,Seedling,Summer,Central Zone,Medium,Shoot Fly
+21.5,91.3,107.4,78.1,5.8,52,Flowering,Kharif,North Zone,High,Corn Rootworm
+31.4,57.2,147.8,68.4,10.7,63,Maturity,Rabi,North Zone,Medium,Corn Earworm
+25.9,76.4,35.2,55.2,7.1,64,Flowering,Summer,East Zone,Medium,Aphids
+26.2,74.0,28.5,48.4,8.3,77,Flowering,Summer,South Zone,Medium,Aphids
+32.5,63.3,126.4,69.6,11.9,27,Vegetative,Kharif,West Zone,Medium,Fall Armyworm
+33.8,49.0,29.5,25.4,12.2,49,Vegetative,Rabi,Central Zone,Medium,Termites
+19.1,55.3,35.6,62.8,17.8,12,Seedling,Rabi,South Zone,Medium,Cutworm
+31.3,76.4,178.1,73.5,10.1,38,Vegetative,Kharif,Central Zone,High,White Grub
+32.0,76.5,201.6,83.0,9.9,39,Seedling,Kharif,Central Zone,Medium,White Grub
+31.6,81.9,113.5,73.9,6.1,63,Flowering,Rabi,Central Zone,Medium,Stem Borer
+28.1,81.4,116.2,72.8,3.3,33,Vegetative,Kharif,East Zone,Medium,Stem Borer
+35.6,40.0,11.8,34.0,13.8,66,Vegetative,Summer,Central Zone,High,Termites
+26.0,67.4,133.1,71.4,11.1,17,Vegetative,Kharif,West Zone,Medium,White Grub
+27.5,68.4,44.9,65.1,6.3,87,Maturity,Rabi,Central Zone,Medium,Corn Earworm
+30.1,73.7,207.6,68.8,1.5,36,Vegetative,Kharif,West Zone,Medium,White Grub
+26.5,84.0,42.4,,5.0,40,Flowering,Rabi,West Zone,Low,Aphids
+34.6,52.2,57.1,48.5,18.7,9,Seedling,Summer,West Zone,Medium,Shoot Fly
+37.9,80.0,97.3,67.8,6.7,38,Vegetative,Kharif,West Zone,Medium,Fall Armyworm
+31.6,56.7,42.1,46.1,12.1,19,Seedling,Kharif,West Zone,High,Shoot Fly
+31.7,82.0,139.7,72.7,8.4,64,Vegetative,Rabi,South Zone,Medium,Stem Borer
+37.5,33.1,13.4,28.2,7.0,60,Vegetative,Summer,North Zone,Low,Termites
+24.0,72.6,38.7,52.1,6.4,69,Maturity,Summer,South Zone,Low,Aphids
+32.1,71.2,173.7,77.3,9.7,26,Seedling,Kharif,South Zone,High,White Grub
+28.3,72.2,136.0,85.0,10.3,32,Flowering,Kharif,South Zone,Medium,Stem Borer
+31.4,86.9,142.7,76.4,6.5,36,Vegetative,Rabi,South Zone,Medium,Stem Borer
+30.2,81.1,140.1,66.9,10.6,45,Vegetative,Kharif,South Zone,High,Fall Armyworm
+31.0,81.0,73.9,49.6,10.3,28,Flowering,Kharif,Central Zone,Medium,Fall Armyworm
+30.6,55.9,47.8,41.8,20.1,25,Seedling,Kharif,East Zone,Medium,Shoot Fly
+28.8,71.8,97.4,50.9,13.1,88,Flowering,Rabi,East Zone,High,Corn Earworm
+30.8,81.4,83.2,55.6,14.5,55,Flowering,Summer,West Zone,Medium,Fall Armyworm
+36.1,32.8,11.3,36.8,7.4,73,Vegetative,Rabi,West Zone,High,Termites
+39.9,32.8,26.4,28.0,12.8,50,Maturity,Rabi,East Zone,Low,Termites
+23.9,84.2,131.0,76.0,8.5,36,Flowering,Kharif,East Zone,Medium,Corn Rootworm
+26.7,68.6,65.1,,,84,Flowering,Summer,West Zone,High,Corn Earworm
+42.2,46.3,19.8,28.4,11.1,77,Vegetative,Rabi,East Zone,Low,Termites
+23.6,56.7,61.7,61.4,16.9,15,Seedling,Rabi,East Zone,Medium,Cutworm
+30.4,82.1,160.2,79.1,7.1,64,Vegetative,Kharif,West Zone,High,Stem Borer
+22.9,80.5,97.9,56.3,5.1,68,Vegetative,Rabi,South Zone,Medium,Pink Stem Borer
+24.3,80.3,73.1,66.7,7.6,72,Vegetative,Rabi,South Zone,High,Pink Stem Borer
+36.0,47.2,37.6,44.3,9.2,16,Seedling,Summer,South Zone,Medium,Shoot Fly
+29.1,88.6,140.6,76.6,4.8,60,Vegetative,Kharif,South Zone,High,Stem Borer
+33.2,37.0,16.8,37.7,12.7,51,Maturity,Rabi,Central Zone,Medium,Termites
+30.8,62.0,57.5,53.0,20.5,16,Seedling,Kharif,Central Zone,High,Shoot Fly
+27.5,67.1,116.0,76.4,10.2,29,Seedling,Kharif,East Zone,High,White Grub
+25.0,64.5,40.2,56.4,10.7,16,Seedling,Kharif,North Zone,Medium,Cutworm
+28.2,72.0,73.3,79.2,8.0,44,Vegetative,Rabi,East Zone,Medium,Pink Stem Borer
+34.4,37.1,18.2,38.2,4.4,84,Maturity,Rabi,South Zone,Low,Termites
+36.1,48.6,46.0,42.0,17.1,14,Seedling,Kharif,West Zone,Medium,Shoot Fly
+30.2,43.7,40.2,21.8,11.6,53,Maturity,Rabi,West Zone,High,Termites
+28.3,74.6,160.7,73.5,10.2,20,Vegetative,Kharif,South Zone,Medium,White Grub
+40.4,38.5,27.2,22.2,8.1,72,Vegetative,Summer,North Zone,High,Termites
+30.4,87.9,150.7,72.8,8.0,33,Vegetative,Rabi,South Zone,Medium,Stem Borer
+27.0,84.4,166.5,71.8,6.8,39,Vegetative,Kharif,East Zone,High,Stem Borer
+31.7,75.8,108.3,84.8,11.3,50,Flowering,Kharif,North Zone,Medium,Fall Armyworm
+33.9,34.8,27.4,28.9,9.1,80,Maturity,Summer,Central Zone,Low,Termites
+29.3,82.1,24.0,35.1,8.0,74,Maturity,Rabi,South Zone,Medium,Aphids
+28.1,85.2,80.9,81.2,5.0,36,Vegetative,Kharif,Central Zone,Medium,Stem Borer
+37.2,40.1,10.5,27.6,13.1,42,Maturity,Rabi,North Zone,Medium,Termites
+33.2,64.7,79.6,34.1,20.7,19,Seedling,Kharif,South Zone,Medium,Shoot Fly
+26.3,70.5,16.7,48.5,7.8,45,Flowering,Rabi,West Zone,Medium,Aphids
+24.7,92.6,93.7,81.9,4.5,60,Flowering,Kharif,South Zone,Medium,Corn Rootworm
+30.2,85.5,127.4,56.8,8.5,61,Flowering,Rabi,Central Zone,Medium,Stem Borer
+32.1,80.0,140.9,59.4,14.0,34,Vegetative,Summer,West Zone,High,Fall Armyworm
+29.0,66.1,33.2,46.0,5.8,42,Flowering,Summer,South Zone,Low,Aphids
+33.7,56.1,39.9,45.2,11.2,7,Seedling,Summer,West Zone,Medium,Shoot Fly
+27.3,84.7,105.5,79.7,9.2,49,Vegetative,Kharif,Central Zone,High,Stem Borer
+29.5,54.6,67.9,38.1,13.4,19,Seedling,Summer,Central Zone,Medium,Shoot Fly
+33.9,66.3,46.2,40.8,20.0,8,Seedling,Summer,South Zone,High,Shoot Fly
+33.0,85.9,142.6,69.3,5.9,51,Flowering,Rabi,East Zone,Medium,Stem Borer
+31.3,74.5,209.1,82.6,5.2,30,Seedling,Kharif,Central Zone,High,White Grub
+27.1,80.0,120.4,83.5,11.0,52,Vegetative,Rabi,Central Zone,Medium,Corn Rootworm
+33.8,78.0,28.2,54.3,7.8,55,Flowering,Rabi,South Zone,Medium,Aphids
+24.4,94.0,135.8,85.0,8.3,34,Flowering,Rabi,North Zone,High,Corn Rootworm
+30.3,85.4,121.5,71.1,5.2,30,Flowering,Rabi,East Zone,High,Stem Borer
+30.4,85.1,153.7,86.7,8.0,38,Vegetative,Kharif,West Zone,High,Stem Borer
+37.0,31.3,16.1,34.2,13.5,81,Maturity,Summer,North Zone,Low,Termites
+32.4,59.4,27.2,42.5,18.1,24,Seedling,Summer,West Zone,High,Shoot Fly
+32.4,80.5,111.2,68.1,10.0,38,Vegetative,Kharif,Central Zone,Medium,Fall Armyworm
+24.1,67.9,52.4,50.3,5.4,23,Seedling,Rabi,West Zone,High,Cutworm
+30.7,67.1,67.7,65.5,8.8,63,Maturity,Rabi,West Zone,High,Corn Earworm
+30.6,73.7,98.7,49.1,13.6,59,Flowering,Rabi,West Zone,High,Corn Earworm
+26.7,73.2,31.4,35.8,6.8,70,Flowering,Summer,South Zone,Medium,Aphids
+27.4,63.9,106.7,85.8,7.4,34,Seedling,Kharif,North Zone,High,White Grub
+31.8,66.8,50.9,51.1,13.7,74,Flowering,Rabi,Central Zone,High,Corn Earworm
+24.7,82.3,134.0,85.0,9.2,46,Flowering,Rabi,Central Zone,High,Corn Rootworm
+31.6,67.8,58.5,56.7,10.8,74,Maturity,Summer,West Zone,Medium,Corn Earworm
+31.1,52.3,55.2,44.7,15.1,12,Seedling,Kharif,East Zone,High,Shoot Fly
+28.1,70.6,127.7,84.2,11.6,45,Seedling,Kharif,West Zone,High,White Grub
+21.4,70.4,15.0,44.8,5.8,65,Maturity,Rabi,Central Zone,Low,Aphids
+30.7,32.6,10.0,31.2,11.2,33,Vegetative,Rabi,South Zone,High,Termites
+28.2,73.1,140.9,76.1,13.2,40,Vegetative,Kharif,West Zone,Medium,White Grub
+33.4,64.2,189.0,83.7,6.1,19,Vegetative,Kharif,East Zone,Medium,White Grub
+30.0,79.2,62.5,52.7,13.1,82,Maturity,Kharif,Central Zone,High,Corn Earworm
+30.7,75.3,171.9,80.7,5.7,33,Vegetative,Kharif,Central Zone,High,White Grub
+33.6,83.8,104.3,67.7,7.4,43,Flowering,Summer,North Zone,High,Fall Armyworm
+30.5,84.3,138.1,82.9,7.2,45,Flowering,Kharif,Central Zone,Medium,Stem Borer
+26.1,79.9,129.4,81.0,7.5,46,Flowering,Kharif,North Zone,Medium,Corn Rootworm
+25.1,74.3,38.3,46.5,2.8,54,Flowering,Summer,West Zone,Medium,Aphids
+34.4,80.3,114.8,82.8,7.7,39,Seedling,Kharif,North Zone,High,White Grub
+30.7,73.8,151.8,72.5,7.3,18,Vegetative,Kharif,North Zone,High,White Grub
+27.7,78.7,138.0,70.0,9.7,39,Flowering,Rabi,West Zone,High,Stem Borer
+26.5,60.9,48.6,59.5,15.9,21,Seedling,Kharif,West Zone,Medium,Cutworm
+29.7,85.0,154.5,66.3,10.2,58,Flowering,Rabi,East Zone,Medium,Stem Borer
+33.2,74.2,110.9,73.5,11.4,27,Vegetative,Kharif,North Zone,High,Fall Armyworm
+30.7,84.2,69.3,49.0,10.9,70,Maturity,Kharif,East Zone,Medium,Corn Earworm
+37.2,38.2,34.5,22.0,13.1,64,Maturity,Summer,South Zone,Medium,Termites
+26.5,80.3,124.9,53.9,8.4,95,Maturity,Rabi,North Zone,High,Corn Earworm
+25.7,78.1,69.2,65.2,4.2,42,Flowering,Rabi,West Zone,High,Pink Stem Borer
+31.0,74.6,97.7,79.5,8.2,33,Vegetative,Kharif,North Zone,High,Fall Armyworm
+25.6,78.6,65.0,70.5,8.7,36,Vegetative,Rabi,East Zone,High,Pink Stem Borer
+23.7,71.8,40.0,49.5,9.7,19,Seedling,Rabi,West Zone,Medium,Cutworm
+32.5,63.6,32.4,21.9,7.0,50,Maturity,Rabi,North Zone,High,Termites
+34.0,64.4,58.2,43.2,14.6,18,Seedling,Kharif,East Zone,Medium,Shoot Fly
+24.7,80.4,30.1,63.4,6.3,67,Vegetative,Rabi,East Zone,Medium,Pink Stem Borer
+29.9,93.9,151.0,72.8,10.3,45,Flowering,Kharif,East Zone,Medium,Stem Borer
+29.2,72.5,97.1,76.5,6.6,87,Maturity,Rabi,Central Zone,Medium,Corn Earworm
+25.9,80.4,143.9,76.5,6.2,52,Vegetative,Rabi,Central Zone,Medium,Corn Rootworm
+27.3,75.9,103.4,50.0,10.2,86,Maturity,Kharif,East Zone,Medium,Corn Earworm
+28.2,64.4,152.4,75.8,15.1,34,Seedling,Kharif,North Zone,High,White Grub
+31.1,63.7,140.2,85.1,14.2,19,Seedling,Kharif,Central Zone,High,White Grub
+30.2,25.0,38.7,32.3,8.4,73,Maturity,Rabi,West Zone,Medium,Termites
+31.3,56.2,160.1,80.3,11.3,20,Seedling,Kharif,South Zone,Medium,White Grub
+23.5,75.4,20.7,52.0,4.2,42,Maturity,Rabi,South Zone,Medium,Aphids
+29.0,66.0,182.8,84.0,8.4,33,Vegetative,Kharif,Central Zone,Medium,White Grub
+29.6,76.2,131.0,74.6,14.6,47,Flowering,Kharif,Central Zone,High,Stem Borer
+18.7,75.2,60.0,57.5,21.0,18,Seedling,Rabi,South Zone,High,Cutworm
+26.9,76.9,29.5,59.8,8.2,42,Maturity,Summer,North Zone,Medium,Aphids
+28.4,64.1,152.9,72.4,8.8,42,Seedling,Kharif,South Zone,Medium,White Grub
+26.5,77.7,69.2,65.4,9.7,74,Flowering,Rabi,South Zone,High,Pink Stem Borer
+19.5,77.0,73.8,73.4,7.0,38,Vegetative,Rabi,North Zone,Medium,Pink Stem Borer
+20.2,83.1,58.6,56.7,6.8,52,Flowering,Rabi,East Zone,Medium,Pink Stem Borer
+25.5,72.0,7.9,57.2,8.5,58,Maturity,Rabi,West Zone,Low,Aphids
+32.6,72.3,105.0,67.9,13.8,37,Flowering,Kharif,South Zone,High,Fall Armyworm
+24.0,59.9,46.2,59.1,19.8,9,Seedling,Kharif,West Zone,Low,Cutworm
+31.8,76.7,162.9,87.9,10.0,19,Vegetative,Kharif,West Zone,High,White Grub
+27.8,80.4,184.4,74.9,7.8,17,Seedling,Kharif,Central Zone,High,White Grub
+26.7,77.3,32.0,52.5,9.4,63,Maturity,Summer,Central Zone,Medium,Aphids
+33.7,79.0,133.5,59.7,13.2,25,Flowering,Kharif,East Zone,High,Fall Armyworm
+33.1,81.1,114.6,70.4,5.3,64,Flowering,Kharif,South Zone,High,Stem Borer
+28.0,69.8,110.8,78.1,11.3,23,Vegetative,Kharif,East Zone,High,White Grub
+32.3,52.2,25.1,36.2,9.0,83,Vegetative,Rabi,North Zone,Medium,Termites
+33.1,72.5,132.3,69.4,13.7,26,Flowering,Kharif,North Zone,Medium,Fall Armyworm
+25.1,64.6,96.9,52.4,11.4,83,Maturity,Kharif,South Zone,High,Corn Earworm
+24.6,75.1,60.3,64.4,11.9,74,Flowering,Rabi,East Zone,Medium,Corn Earworm
+24.3,77.9,32.6,45.7,4.0,45,Maturity,Rabi,West Zone,Low,Aphids
+21.1,76.7,14.4,50.8,5.5,54,Maturity,Rabi,North Zone,Low,Aphids
+24.0,62.9,40.1,61.6,15.3,20,Seedling,Rabi,Central Zone,Low,Cutworm
+22.9,68.3,22.0,61.8,16.4,21,Seedling,Kharif,North Zone,Low,Cutworm
+31.0,58.0,49.4,44.1,16.2,10,Seedling,Kharif,West Zone,Medium,Shoot Fly
+32.4,86.3,100.6,79.4,11.3,44,Flowering,Kharif,North Zone,Medium,Stem Borer
+33.8,68.7,80.2,52.2,15.9,18,Seedling,Kharif,West Zone,Medium,Shoot Fly
+30.6,70.9,85.5,57.2,14.7,64,Flowering,Summer,Central Zone,Medium,Corn Earworm
+26.0,79.2,95.0,48.8,11.1,83,Maturity,Summer,South Zone,Medium,Corn Earworm
+20.8,88.1,152.1,78.4,7.2,53,Vegetative,Kharif,South Zone,Medium,Corn Rootworm
+33.4,80.0,108.2,85.4,12.9,67,Flowering,Rabi,East Zone,High,Stem Borer
+28.0,76.1,111.8,54.1,8.5,70,Maturity,Summer,South Zone,Medium,Corn Earworm
+38.7,53.5,25.6,24.7,17.0,86,Maturity,Summer,East Zone,High,Termites
+20.4,62.7,50.1,69.0,17.4,21,Seedling,Rabi,West Zone,High,Cutworm
+27.0,77.3,30.4,54.5,0.9,43,Flowering,Summer,North Zone,Medium,Aphids
+21.1,66.7,27.7,58.5,13.2,20,Seedling,Rabi,North Zone,High,Cutworm
+36.5,72.6,43.0,43.9,14.7,17,Seedling,Summer,Central Zone,High,Shoot Fly
+24.1,86.0,111.0,75.2,8.2,48,Vegetative,Rabi,North Zone,Medium,Corn Rootworm
+25.3,76.0,86.1,60.6,8.5,34,Vegetative,Rabi,South Zone,High,Pink Stem Borer
+33.1,77.8,121.4,63.9,11.4,23,Vegetative,Summer,Central Zone,High,Fall Armyworm
+24.6,81.3,125.6,72.7,6.0,52,Flowering,Kharif,East Zone,Medium,Corn Rootworm
+28.9,81.0,132.8,74.6,9.2,49,Vegetative,Kharif,Central Zone,Medium,Stem Borer
+34.7,54.8,32.0,37.7,13.3,19,Seedling,Summer,West Zone,High,Shoot Fly
+20.9,59.6,25.6,50.9,14.7,6,Seedling,Rabi,West Zone,Low,Cutworm
+30.7,79.8,127.6,68.5,7.9,59,Vegetative,Rabi,North Zone,Medium,Stem Borer
+28.9,80.9,65.4,65.1,12.9,28,Flowering,Kharif,West Zone,Medium,Fall Armyworm
+33.4,81.5,55.2,38.0,14.7,23,Seedling,Kharif,East Zone,Medium,Shoot Fly
+23.6,69.5,68.3,67.3,8.4,72,Maturity,Kharif,East Zone,Medium,Corn Earworm
+24.8,81.8,173.5,80.1,10.7,42,Vegetative,Rabi,West Zone,Medium,Corn Rootworm
+32.0,74.9,172.9,80.8,4.2,31,Vegetative,Kharif,West Zone,Medium,White Grub
+23.4,84.2,69.1,55.2,7.9,40,Flowering,Rabi,East Zone,Medium,Pink Stem Borer
+32.9,87.0,138.1,81.7,7.1,66,Vegetative,Kharif,North Zone,Medium,Stem Borer
+26.7,73.4,149.1,65.8,11.3,35,Vegetative,Kharif,West Zone,High,Fall Armyworm
+27.3,81.4,117.5,77.8,9.5,66,Flowering,Summer,South Zone,High,Corn Earworm
+33.6,47.9,72.2,36.8,15.8,14,Seedling,Kharif,East Zone,High,Shoot Fly
+27.3,79.6,114.9,70.7,6.7,66,Flowering,Kharif,South Zone,Medium,Stem Borer
+20.4,70.8,28.4,57.0,18.9,21,Seedling,Rabi,North Zone,Medium,Cutworm
+28.7,67.7,151.9,86.3,9.5,42,Vegetative,Kharif,East Zone,High,White Grub
+28.4,83.9,106.9,79.8,9.0,65,Flowering,Kharif,South Zone,High,Stem Borer
+25.2,70.8,21.1,54.3,8.5,76,Maturity,Rabi,East Zone,Medium,Aphids
+22.7,82.3,32.4,60.9,7.9,61,Vegetative,Rabi,South Zone,Medium,Pink Stem Borer
+28.7,73.3,93.3,70.3,11.4,46,Vegetative,Kharif,East Zone,High,Fall Armyworm
+25.4,67.4,94.8,71.7,3.8,41,Vegetative,Summer,East Zone,High,Fall Armyworm
+28.5,79.9,181.7,72.3,9.0,43,Vegetative,Rabi,North Zone,High,Stem Borer
+28.4,57.2,100.4,61.7,11.5,72,Flowering,Kharif,Central Zone,Medium,Corn Earworm
+32.9,74.6,173.1,80.3,7.6,48,Flowering,Kharif,Central Zone,Medium,Corn Rootworm
+27.9,67.5,73.6,,5.4,95,Maturity,Kharif,West Zone,Medium,Corn Earworm
+29.9,67.5,62.4,56.4,13.8,70,Maturity,Rabi,West Zone,High,Corn Earworm
+31.9,62.9,39.0,50.3,17.4,17,Seedling,Kharif,South Zone,High,Shoot Fly
+33.2,81.3,160.1,75.7,11.2,42,Vegetative,Kharif,North Zone,Medium,Stem Borer
+26.2,74.5,81.1,59.5,10.3,83,Maturity,Rabi,North Zone,High,Corn Earworm
+35.8,39.1,22.1,39.5,14.0,55,Vegetative,Rabi,West Zone,Medium,Termites
+28.2,72.7,21.1,57.6,7.8,47,Flowering,Rabi,Central Zone,Medium,Aphids
+34.7,75.0,104.3,54.9,10.8,33,Vegetative,Kharif,South Zone,Medium,Fall Armyworm
+35.0,56.3,59.6,43.7,16.1,19,Seedling,Summer,East Zone,High,Shoot Fly
+25.1,70.5,25.2,58.5,5.1,56,Maturity,Rabi,North Zone,Medium,Corn Earworm
+33.0,76.7,176.3,88.6,6.6,18,Seedling,Kharif,North Zone,Medium,White Grub
+35.4,82.7,104.1,77.1,8.7,34,Vegetative,Kharif,East Zone,High,Fall Armyworm
+27.9,79.6,124.1,67.6,11.1,67,Flowering,Kharif,North Zone,Medium,Stem Borer
+21.2,67.5,36.4,38.6,15.1,25,Seedling,Kharif,North Zone,Low,Cutworm
+29.2,59.5,29.5,58.9,18.2,10,Seedling,Summer,North Zone,High,Shoot Fly
+28.3,77.6,68.1,64.3,10.6,91,Maturity,Summer,West Zone,High,Corn Earworm
+31.7,84.4,128.3,70.3,7.0,44,Flowering,Kharif,East Zone,Medium,Fall Armyworm
+19.1,64.1,46.4,44.8,23.6,10,Seedling,Kharif,West Zone,Medium,Cutworm
+31.8,73.6,86.4,58.3,7.1,57,Maturity,Summer,East Zone,Medium,Corn Earworm
+30.2,73.5,116.5,80.3,8.6,28,Vegetative,Kharif,North Zone,Medium,White Grub
+21.2,70.7,25.9,65.1,7.1,64,Flowering,Summer,Central Zone,Low,Aphids
+18.0,68.4,21.8,64.7,12.1,25,Seedling,Rabi,East Zone,Medium,Cutworm
+29.8,80.0,114.9,68.2,7.5,32,Vegetative,Kharif,Central Zone,High,White Grub
+38.1,27.8,-8.3,27.3,12.7,51,Maturity,Rabi,North Zone,Low,Termites
+35.4,56.3,43.8,53.1,8.5,26,Seedling,Summer,East Zone,Medium,Shoot Fly
+30.0,79.0,121.2,63.9,12.1,50,Flowering,Kharif,South Zone,High,Fall Armyworm
+21.8,66.1,94.1,52.1,10.2,61,Flowering,Summer,East Zone,Medium,Corn Earworm
+36.3,37.3,21.7,24.2,10.4,17,Vegetative,Rabi,South Zone,Medium,Termites
+29.5,70.9,73.3,61.8,12.1,70,Maturity,Rabi,Central Zone,High,Corn Earworm
+25.9,83.8,101.6,71.4,15.6,42,Flowering,Summer,Central Zone,Medium,Fall Armyworm
+17.9,60.0,40.7,47.9,20.9,20,Seedling,Kharif,West Zone,Low,Cutworm
+28.9,75.2,115.1,58.4,10.8,25,Vegetative,Kharif,South Zone,High,Fall Armyworm
+31.8,76.3,107.7,63.8,7.5,53,Vegetative,Kharif,Central Zone,High,Fall Armyworm
+23.0,77.3,45.3,57.0,,9,Seedling,Kharif,South Zone,High,Cutworm
+30.5,73.6,53.0,56.4,12.4,8,Seedling,Summer,Central Zone,Medium,Shoot Fly
+32.5,74.7,96.1,61.9,9.3,62,Maturity,Rabi,East Zone,Medium,Corn Earworm
+27.4,85.7,80.8,75.3,6.6,31,Flowering,Rabi,South Zone,High,Corn Rootworm
+28.8,69.7,109.4,44.4,10.4,82,Maturity,Rabi,South Zone,High,Corn Earworm
+29.5,46.1,19.1,32.5,8.4,88,Maturity,Summer,Central Zone,High,Termites
+31.2,76.3,96.7,59.0,11.7,79,Maturity,Summer,South Zone,High,Corn Earworm
+26.2,75.1,118.0,68.6,7.8,55,Maturity,Summer,Central Zone,High,Corn Earworm
+31.9,71.5,124.3,71.6,6.4,31,Flowering,Kharif,South Zone,High,Fall Armyworm
+21.7,78.6,64.6,56.5,8.8,36,Flowering,Rabi,East Zone,Medium,Pink Stem Borer
+30.0,81.2,117.3,82.3,12.1,45,Flowering,Rabi,North Zone,Medium,Stem Borer
+32.0,55.1,57.4,42.5,14.5,21,Seedling,Summer,South Zone,High,Shoot Fly
+24.2,51.6,64.8,55.7,12.4,7,Seedling,Kharif,North Zone,Medium,Cutworm
+30.8,77.8,66.7,80.0,12.1,23,Vegetative,Kharif,West Zone,High,Fall Armyworm
+29.1,75.7,64.6,63.8,9.2,81,Maturity,Rabi,Central Zone,High,Corn Earworm
+26.7,74.4,127.5,78.4,7.9,31,Flowering,Kharif,West Zone,Medium,Corn Rootworm
+30.4,79.2,118.6,74.2,5.8,32,Flowering,Kharif,East Zone,High,Stem Borer
+31.2,80.5,52.8,72.4,5.4,34,Flowering,Kharif,South Zone,High,Stem Borer
+26.2,77.1,143.3,84.3,8.8,65,Vegetative,Rabi,North Zone,High,Stem Borer
+23.8,87.3,118.5,77.8,4.7,35,Flowering,Kharif,North Zone,Medium,Corn Rootworm
+29.5,56.9,52.4,44.3,13.5,13,Seedling,Summer,Central Zone,High,Shoot Fly
+32.2,44.9,6.8,34.7,8.0,43,Maturity,Rabi,North Zone,Low,Termites
+29.1,70.7,97.5,75.8,13.5,45,Flowering,Summer,South Zone,High,Fall Armyworm
+33.4,80.6,82.4,65.4,9.7,43,Vegetative,Kharif,East Zone,Medium,Fall Armyworm
+26.7,74.0,86.1,71.3,11.7,60,Vegetative,Rabi,North Zone,Medium,Pink Stem Borer
+20.8,70.0,79.2,49.4,7.9,10,Seedling,Kharif,West Zone,Low,Cutworm
+25.7,84.9,83.5,72.4,9.1,49,Flowering,Rabi,East Zone,High,Stem Borer
+29.9,83.7,146.7,84.0,5.6,64,Flowering,Kharif,West Zone,High,Stem Borer
+31.6,53.8,62.5,51.3,16.6,12,Seedling,Kharif,East Zone,Medium,Shoot Fly
+33.0,64.9,218.4,88.7,10.8,29,Vegetative,Kharif,East Zone,Medium,White Grub
+27.6,71.7,60.6,59.9,9.4,33,Vegetative,Rabi,North Zone,Medium,Pink Stem Borer
+30.9,66.1,70.6,49.9,16.0,24,Seedling,Kharif,Central Zone,Medium,Shoot Fly
+28.5,73.8,141.2,74.2,11.9,44,Flowering,Kharif,West Zone,High,Fall Armyworm
+23.2,69.9,50.7,78.4,5.4,45,Flowering,Rabi,North Zone,High,Pink Stem Borer
+25.4,90.0,98.6,83.1,8.9,27,Vegetative,Kharif,South Zone,High,Corn Rootworm
+28.0,87.2,51.6,68.5,9.5,68,Flowering,Kharif,West Zone,Medium,Corn Earworm
+31.0,83.8,118.0,76.6,3.4,57,Vegetative,Kharif,East Zone,High,Stem Borer
+30.7,83.2,159.2,82.4,8.9,35,Flowering,Rabi,East Zone,High,Stem Borer
+35.4,33.0,12.9,37.1,15.3,68,Vegetative,Rabi,West Zone,Low,Termites
+27.4,70.3,66.9,69.4,12.0,64,Maturity,Summer,North Zone,Medium,Corn Earworm
+27.9,75.6,63.2,66.6,9.3,36,Flowering,Rabi,West Zone,High,Pink Stem Borer
+25.5,70.6,38.8,55.8,4.2,64,Maturity,Summer,South Zone,Low,Aphids
+29.4,80.9,31.3,50.6,7.1,65,Flowering,Summer,West Zone,Low,Aphids
+31.3,60.2,17.7,51.1,9.5,14,Seedling,Summer,East Zone,High,Shoot Fly
+36.0,57.4,46.8,40.6,14.0,7,Seedling,Kharif,East Zone,High,Shoot Fly
+29.5,62.6,42.8,52.7,3.6,71,Flowering,Rabi,East Zone,Low,Aphids
+27.3,82.1,126.9,69.9,11.8,39,Vegetative,Kharif,West Zone,High,White Grub
+24.7,75.3,73.9,57.8,10.2,71,Vegetative,Rabi,West Zone,Medium,Pink Stem Borer
+25.2,68.7,50.4,70.9,14.0,18,Seedling,Kharif,East Zone,High,Cutworm
+28.0,80.2,162.2,59.9,10.9,52,Vegetative,Kharif,Central Zone,High,Fall Armyworm
+25.8,84.7,105.4,88.7,11.6,33,Vegetative,Kharif,South Zone,Medium,Corn Rootworm
+31.5,73.5,71.3,70.1,15.3,35,Vegetative,Kharif,East Zone,Medium,Fall Armyworm
+23.4,65.0,36.2,45.2,17.3,13,Seedling,Kharif,Central Zone,Medium,Cutworm
+26.8,77.3,169.7,85.4,9.8,32,Vegetative,Kharif,West Zone,High,Corn Rootworm
+21.3,73.2,67.3,68.5,11.6,58,Vegetative,Rabi,Central Zone,High,Pink Stem Borer
+37.1,38.1,9.7,37.4,8.1,54,Maturity,Summer,North Zone,Medium,Termites
+30.1,73.6,45.9,55.4,5.7,41,Maturity,Rabi,Central Zone,Low,Aphids
+20.4,62.6,51.4,55.7,11.6,12,Seedling,Rabi,South Zone,High,Cutworm
+25.6,75.4,8.7,53.7,4.0,66,Flowering,Rabi,South Zone,Medium,Aphids
+25.1,59.9,49.1,49.2,7.9,93,Flowering,Kharif,Central Zone,High,Corn Earworm
+30.9,72.4,31.8,53.2,6.3,57,Maturity,Summer,West Zone,Medium,Aphids
+25.8,69.0,44.5,64.5,2.6,53,Maturity,Summer,Central Zone,Medium,Aphids
+27.5,80.9,111.1,78.5,6.2,30,Flowering,Rabi,North Zone,High,Stem Borer
+35.4,79.1,167.4,85.2,11.8,17,Vegetative,Kharif,East Zone,High,White Grub
+24.6,70.9,30.8,56.9,6.3,56,Maturity,Rabi,Central Zone,Low,Aphids
+17.3,59.4,43.9,54.3,21.9,6,Seedling,Kharif,East Zone,High,Cutworm
+24.5,73.0,114.8,78.2,8.8,56,Maturity,Rabi,East Zone,High,Corn Earworm
+26.0,87.8,134.9,81.4,7.9,50,Flowering,Kharif,East Zone,Medium,Corn Rootworm
+14.4,69.8,46.9,53.0,22.2,22,Seedling,Kharif,East Zone,High,Cutworm
+33.0,36.8,39.9,25.0,9.3,48,Vegetative,Summer,North Zone,Medium,Termites
+29.6,77.0,167.3,69.0,7.7,19,Vegetative,Kharif,East Zone,Medium,White Grub
+28.3,81.7,152.8,77.9,3.6,44,Flowering,Kharif,West Zone,High,Stem Borer
+35.1,62.0,70.8,48.1,18.9,18,Seedling,Kharif,West Zone,High,Shoot Fly
+30.4,87.4,155.7,74.3,13.7,60,Vegetative,Kharif,South Zone,High,Stem Borer
+37.7,44.6,7.2,22.3,11.9,25,Maturity,Rabi,North Zone,Medium,Termites
+28.4,66.3,87.8,72.7,12.1,63,Flowering,Rabi,Central Zone,High,Corn Earworm
+27.1,71.3,131.8,75.3,8.0,19,Vegetative,Kharif,North Zone,Medium,White Grub
+28.8,64.5,155.5,74.1,,25,Seedling,Kharif,North Zone,High,White Grub
+36.1,83.4,100.6,68.2,8.5,48,Vegetative,Kharif,Central Zone,Medium,Fall Armyworm
+32.2,81.4,88.1,68.2,10.5,86,Flowering,Kharif,West Zone,High,Corn Earworm
+22.3,82.9,133.3,79.3,6.6,52,Flowering,Rabi,North Zone,Medium,Corn Rootworm
+34.7,39.4,20.5,23.6,8.8,35,Maturity,Summer,Central Zone,Medium,Termites
+18.1,71.8,13.4,65.4,19.5,5,Seedling,Rabi,South Zone,High,Cutworm
+21.1,46.8,39.6,54.4,10.0,16,Seedling,Kharif,North Zone,Low,Cutworm
+24.0,92.7,146.6,76.5,3.8,57,Flowering,Kharif,North Zone,Medium,Corn Rootworm
+25.2,73.9,35.0,45.7,7.0,58,Maturity,Summer,South Zone,Medium,Aphids
+36.9,66.5,49.3,43.7,13.8,22,Seedling,Kharif,South Zone,Medium,Shoot Fly
+27.4,81.9,131.1,82.3,6.0,26,Vegetative,Kharif,South Zone,Medium,Corn Rootworm
+27.6,79.6,108.5,72.0,10.4,52,Vegetative,Kharif,North Zone,High,Fall Armyworm
+27.4,80.6,172.8,71.5,7.9,41,Vegetative,Kharif,North Zone,Medium,Corn Rootworm
+32.2,74.0,120.6,78.2,5.3,27,Vegetative,Kharif,North Zone,High,Fall Armyworm
+36.5,20.1,10.3,39.8,9.3,42,Maturity,Summer,North Zone,Low,Termites
+23.1,74.0,50.7,35.3,3.9,66,Flowering,Summer,West Zone,Low,Aphids
+32.5,89.4,136.9,66.3,13.2,62,Vegetative,Rabi,North Zone,Medium,Stem Borer
+34.0,76.1,131.6,77.7,8.6,21,Seedling,Kharif,Central Zone,High,White Grub
+23.0,75.2,58.2,45.3,19.5,16,Seedling,Kharif,South Zone,Medium,Cutworm
+31.8,81.4,146.7,59.1,11.9,55,Vegetative,Kharif,West Zone,High,Fall Armyworm
+31.9,47.5,55.2,62.6,8.6,14,Seedling,Summer,North Zone,Medium,Shoot Fly
+29.4,84.6,143.7,,,66,Flowering,Kharif,Central Zone,Medium,Stem Borer
+30.0,79.0,74.3,83.4,10.4,36,Flowering,Kharif,East Zone,High,Stem Borer
+26.1,76.1,40.7,51.8,7.8,69,Flowering,Rabi,North Zone,Low,Aphids
+25.3,81.6,33.2,51.6,3.5,63,Maturity,Summer,North Zone,Low,Aphids
+31.7,73.8,94.0,61.5,8.8,20,Vegetative,Summer,South Zone,High,Fall Armyworm
+37.2,70.7,78.8,36.4,15.2,18,Seedling,Kharif,North Zone,High,Shoot Fly
+30.4,54.4,36.2,53.7,13.6,17,Seedling,Summer,West Zone,Medium,Shoot Fly
+27.1,88.0,187.6,73.1,9.5,54,Flowering,Rabi,West Zone,High,Corn Rootworm
+30.9,64.2,105.1,62.7,9.3,62,Flowering,Summer,South Zone,Medium,Corn Earworm
+27.9,79.1,201.5,75.0,10.0,56,Flowering,Rabi,Central Zone,Medium,Stem Borer
+23.4,81.1,157.0,73.9,6.2,47,Vegetative,Kharif,West Zone,High,Corn Rootworm
+29.6,82.4,134.6,77.8,9.7,56,Flowering,Kharif,East Zone,Medium,Stem Borer
+34.5,52.1,45.7,53.4,18.1,7,Seedling,Summer,Central Zone,High,Shoot Fly
+30.9,42.8,0.2,30.3,16.7,89,Vegetative,Rabi,South Zone,High,Termites
+27.6,67.0,186.7,67.2,7.4,26,Vegetative,Kharif,Central Zone,Medium,White Grub
+25.2,76.8,65.8,70.2,8.8,33,Vegetative,Rabi,Central Zone,Medium,Pink Stem Borer
+30.7,70.0,173.0,77.1,10.1,42,Vegetative,Kharif,North Zone,Medium,White Grub
+28.8,70.9,125.4,77.8,7.0,25,Seedling,Kharif,East Zone,High,White Grub
+28.2,79.3,115.3,74.3,10.7,52,Vegetative,Summer,West Zone,High,Fall Armyworm
+25.8,87.8,141.1,77.0,7.3,40,Vegetative,Rabi,Central Zone,High,Corn Rootworm
+30.9,72.0,87.0,79.1,14.5,17,Vegetative,Kharif,East Zone,High,White Grub
+28.8,79.1,151.2,77.2,11.0,61,Vegetative,Kharif,West Zone,High,Stem Borer
+27.9,81.7,124.8,66.9,13.0,55,Flowering,Kharif,Central Zone,Medium,Fall Armyworm
+26.1,84.4,49.4,70.7,7.9,70,Flowering,Rabi,West Zone,Medium,Pink Stem Borer
+33.1,60.6,47.7,53.3,14.7,18,Seedling,Summer,West Zone,Medium,Shoot Fly
+30.8,56.9,52.7,53.6,17.1,24,Seedling,Kharif,West Zone,High,Shoot Fly
+27.8,91.9,147.9,83.9,7.6,36,Vegetative,Kharif,East Zone,High,Stem Borer
+27.3,79.2,42.2,58.5,7.7,75,Maturity,Rabi,South Zone,Low,Aphids
+29.2,68.6,171.6,84.5,8.4,19,Vegetative,Kharif,East Zone,Medium,White Grub
+26.1,87.3,53.5,59.1,7.7,42,Vegetative,Rabi,West Zone,Medium,Pink Stem Borer
+22.9,61.3,65.3,58.8,14.2,19,Seedling,Rabi,East Zone,High,Cutworm
+26.6,76.7,148.4,60.1,10.5,56,Vegetative,Kharif,West Zone,High,Stem Borer
+23.7,96.2,111.5,63.7,7.8,62,Vegetative,Rabi,North Zone,High,Pink Stem Borer
+38.0,53.6,3.6,19.3,9.1,16,Maturity,Rabi,South Zone,High,Termites
+25.2,82.5,89.3,56.6,3.4,41,Vegetative,Rabi,West Zone,Medium,Pink Stem Borer
+25.7,75.9,33.7,66.0,9.6,68,Flowering,Rabi,West Zone,High,Pink Stem Borer
+23.8,77.7,67.1,62.4,5.3,74,Vegetative,Rabi,West Zone,High,Pink Stem Borer
+31.6,64.2,54.8,46.2,11.5,16,Seedling,Kharif,South Zone,Medium,Shoot Fly
+24.6,74.1,134.5,90.6,4.1,57,Flowering,Rabi,South Zone,Medium,Corn Rootworm
+20.2,67.3,63.8,51.0,11.2,24,Seedling,Kharif,East Zone,High,Cutworm
+23.1,70.6,125.8,62.2,9.9,66,Maturity,Summer,North Zone,High,Corn Earworm
+33.6,59.9,37.8,50.8,15.8,24,Seedling,Kharif,Central Zone,High,Shoot Fly
+26.0,70.1,43.0,55.3,4.9,67,Flowering,Rabi,West Zone,Low,Aphids
+30.5,67.0,69.4,53.9,4.7,58,Maturity,Kharif,East Zone,Medium,Corn Earworm
+29.2,59.0,60.4,43.4,9.7,73,Maturity,Rabi,North Zone,Medium,Corn Earworm
+25.6,73.4,19.6,40.6,6.9,53,Flowering,Summer,North Zone,Medium,Aphids
+22.9,81.6,54.1,66.3,10.6,73,Vegetative,Rabi,South Zone,High,Pink Stem Borer
+36.8,36.7,22.6,28.6,11.0,46,Vegetative,Rabi,West Zone,Medium,Termites
+32.3,58.7,53.2,38.0,11.4,24,Seedling,Summer,East Zone,Medium,Shoot Fly
+17.8,53.8,26.7,56.4,10.4,24,Seedling,Kharif,East Zone,Low,Cutworm
+25.0,80.2,34.6,69.6,9.6,64,Vegetative,Rabi,East Zone,Medium,Pink Stem Borer
+27.5,74.5,130.0,78.7,5.8,20,Seedling,Kharif,South Zone,Medium,White Grub
+29.6,36.9,18.8,27.6,7.4,25,Maturity,Summer,East Zone,Medium,Termites
+33.8,42.2,19.6,31.1,9.0,43,Vegetative,Summer,East Zone,High,Termites
+33.9,72.1,122.2,77.5,13.4,41,Vegetative,Summer,North Zone,Medium,Fall Armyworm
+27.5,66.8,105.7,48.6,7.1,75,Maturity,Kharif,West Zone,High,Corn Earworm
+23.2,86.2,76.8,58.2,7.4,65,Flowering,Rabi,East Zone,Medium,Pink Stem Borer
+33.2,34.3,29.8,21.8,15.8,38,Vegetative,Summer,South Zone,High,Termites
+26.7,90.5,118.4,81.1,4.1,59,Flowering,Kharif,South Zone,High,Corn Rootworm
+20.4,68.5,64.4,45.0,12.5,15,Seedling,Kharif,East Zone,Medium,Cutworm
+21.5,55.2,53.9,48.5,13.2,24,Seedling,Kharif,North Zone,High,Cutworm
+28.6,78.8,139.8,73.5,7.1,52,Flowering,Kharif,North Zone,Medium,Stem Borer
+31.5,62.6,74.8,46.0,18.5,19,Seedling,Summer,East Zone,High,Shoot Fly
+30.8,41.3,9.0,21.1,8.8,46,Vegetative,Rabi,Central Zone,High,Termites
+33.0,77.7,168.5,67.3,8.5,30,Seedling,Kharif,South Zone,High,White Grub
+33.6,61.4,22.3,38.8,14.8,23,Seedling,Summer,South Zone,Medium,Shoot Fly
+36.6,22.4,18.4,30.9,13.5,78,Vegetative,Summer,South Zone,Low,Termites
+26.4,87.9,110.0,70.6,6.2,31,Vegetative,Rabi,South Zone,Medium,Corn Rootworm
+33.5,85.0,127.8,,,49,Flowering,Kharif,North Zone,Medium,Fall Armyworm
+28.4,81.5,190.1,68.4,12.0,33,Vegetative,Rabi,Central Zone,Medium,Stem Borer
+21.0,74.3,23.9,60.3,11.1,13,Seedling,Kharif,West Zone,Medium,Cutworm
+22.2,86.1,155.2,,4.0,52,Flowering,Kharif,North Zone,High,Corn Rootworm
+34.7,39.3,25.5,35.7,10.8,10,Vegetative,Summer,North Zone,High,Termites
+36.7,61.8,44.8,33.7,14.1,23,Seedling,Summer,East Zone,High,Shoot Fly
+23.3,84.8,78.3,56.7,8.3,35,Flowering,Rabi,West Zone,High,Pink Stem Borer
+26.3,92.6,152.2,86.6,7.1,26,Flowering,Kharif,South Zone,Medium,Corn Rootworm
+25.8,91.2,96.7,79.9,5.5,59,Flowering,Kharif,East Zone,High,Corn Rootworm
+31.9,84.2,95.1,,,55,Flowering,Kharif,North Zone,Medium,Fall Armyworm
+33.3,80.7,120.7,65.8,8.2,45,Flowering,Summer,East Zone,Medium,Fall Armyworm
+23.5,59.2,77.8,60.1,11.7,16,Seedling,Rabi,Central Zone,Medium,Cutworm
+26.5,69.4,80.2,68.9,10.6,65,Flowering,Kharif,South Zone,High,Corn Earworm
+28.0,89.6,141.5,80.4,6.5,41,Vegetative,Rabi,East Zone,Medium,Stem Borer
+30.2,83.2,83.3,89.1,11.2,46,Vegetative,Kharif,East Zone,High,Stem Borer
+32.2,51.2,55.2,45.6,16.2,11,Seedling,Summer,East Zone,Medium,Shoot Fly
+24.4,82.5,96.1,69.0,5.9,34,Vegetative,Rabi,West Zone,High,Pink Stem Borer
+33.4,81.8,270.3,70.1,9.6,25,Vegetative,Kharif,Central Zone,Medium,White Grub
+19.8,82.8,60.1,78.5,6.5,53,Flowering,Rabi,South Zone,High,Pink Stem Borer
+26.8,75.6,60.6,74.0,5.8,40,Vegetative,Kharif,West Zone,High,Fall Armyworm
+26.1,64.6,26.8,63.1,6.7,63,Flowering,Summer,West Zone,Medium,Aphids
+27.8,71.8,160.6,81.3,5.6,26,Vegetative,Kharif,Central Zone,High,White Grub
+30.7,71.2,121.1,71.6,9.6,41,Vegetative,Rabi,Central Zone,Medium,Stem Borer
+22.1,55.2,30.2,56.8,13.7,13,Seedling,Rabi,North Zone,High,Cutworm
+29.6,75.6,127.4,63.9,11.7,52,Flowering,Kharif,Central Zone,High,Fall Armyworm
+29.3,77.9,83.7,86.7,5.6,38,Vegetative,Rabi,South Zone,High,Corn Rootworm
+32.4,53.8,46.1,56.2,17.8,19,Seedling,Summer,South Zone,High,Shoot Fly
+32.2,63.5,119.7,58.1,7.0,31,Seedling,Kharif,East Zone,High,White Grub
+37.9,44.1,17.8,29.9,8.9,11,Vegetative,Summer,South Zone,High,Termites
+30.5,76.6,103.4,80.1,11.3,20,Seedling,Kharif,West Zone,Medium,White Grub
+32.2,65.6,92.2,44.3,16.4,8,Seedling,Summer,South Zone,High,Shoot Fly
+28.0,82.7,153.8,76.4,5.5,46,Flowering,Kharif,South Zone,Medium,Stem Borer
+35.6,51.7,24.5,35.8,10.3,56,Maturity,Rabi,North Zone,Medium,Termites
+32.9,79.4,86.2,70.5,9.0,40,Vegetative,Summer,East Zone,High,Fall Armyworm
+24.4,75.9,33.0,40.5,8.1,77,Flowering,Summer,East Zone,Medium,Aphids
+25.1,76.5,42.3,64.0,7.1,71,Vegetative,Rabi,West Zone,High,Pink Stem Borer
+22.3,62.5,14.9,51.5,12.8,21,Seedling,Kharif,East Zone,Medium,Cutworm
+31.6,67.8,218.8,64.6,12.3,40,Vegetative,Kharif,Central Zone,Medium,White Grub
+27.4,75.2,86.6,69.1,8.8,83,Flowering,Kharif,Central Zone,Medium,Corn Earworm
+23.3,82.1,28.9,51.8,8.5,53,Flowering,Rabi,East Zone,Low,Aphids
+21.9,83.0,59.4,64.1,8.1,75,Vegetative,Rabi,West Zone,Medium,Pink Stem Borer
+30.0,53.8,70.3,51.2,14.8,10,Seedling,Kharif,West Zone,High,Shoot Fly
+22.7,62.9,65.3,53.2,14.9,23,Seedling,Rabi,West Zone,High,Cutworm
+33.9,74.1,149.0,55.8,16.9,35,Vegetative,Kharif,Central Zone,High,Fall Armyworm
+27.1,68.5,47.2,56.4,6.9,63,Maturity,Summer,Central Zone,Medium,Corn Earworm
+26.5,69.2,104.2,61.7,10.9,58,Flowering,Rabi,Central Zone,Medium,Corn Earworm
+22.8,80.6,175.0,77.6,10.3,26,Flowering,Kharif,West Zone,Medium,Corn Rootworm
+23.5,80.0,89.3,73.9,7.8,60,Flowering,Rabi,South Zone,Medium,Pink Stem Borer
+24.2,84.7,138.4,87.3,7.0,34,Vegetative,Rabi,East Zone,Medium,Corn Rootworm
+31.5,81.8,173.3,80.2,5.2,34,Seedling,Kharif,West Zone,Medium,White Grub
+19.7,86.9,127.6,78.9,7.5,33,Vegetative,Kharif,Central Zone,Medium,Corn Rootworm
+34.8,49.0,20.9,25.5,14.0,63,Vegetative,Summer,West Zone,Low,Termites
+23.6,82.6,61.4,60.5,8.2,68,Vegetative,Rabi,North Zone,Medium,Pink Stem Borer
+30.0,74.9,150.6,65.1,7.9,36,Seedling,Kharif,West Zone,Medium,White Grub
+37.4,37.6,17.5,35.9,8.9,63,Maturity,Summer,Central Zone,High,Termites
+21.9,84.2,117.9,76.2,6.6,39,Flowering,Rabi,Central Zone,High,Corn Rootworm
+25.0,80.0,75.5,77.7,7.3,36,Flowering,Rabi,East Zone,Medium,Pink Stem Borer
+30.7,68.9,130.4,73.9,7.8,39,Seedling,Kharif,East Zone,Medium,White Grub
+24.7,91.7,57.1,62.1,7.9,64,Flowering,Rabi,South Zone,High,Pink Stem Borer
+32.0,79.3,142.1,48.6,4.8,20,Flowering,Summer,Central Zone,Medium,Fall Armyworm
+29.8,83.5,70.9,43.9,13.7,44,Flowering,Kharif,East Zone,High,Fall Armyworm
+25.5,79.5,105.4,76.2,7.2,48,Vegetative,Kharif,Central Zone,High,Corn Rootworm
+24.4,77.5,1.5,43.1,3.7,56,Maturity,Summer,West Zone,Medium,Aphids
+21.2,61.2,57.0,38.3,14.2,18,Seedling,Kharif,East Zone,Low,Cutworm
+36.7,54.9,15.2,31.9,5.6,81,Maturity,Rabi,Central Zone,Medium,Termites
+28.2,66.8,49.9,53.2,10.2,19,Seedling,Summer,South Zone,Medium,Shoot Fly
+31.3,83.2,174.7,79.9,9.0,40,Seedling,Kharif,South Zone,Medium,White Grub
+30.3,50.8,13.9,33.0,6.3,61,Maturity,Summer,West Zone,Low,Termites
+28.1,85.2,101.3,79.6,11.8,25,Vegetative,Kharif,West Zone,High,Fall Armyworm
+25.8,85.6,122.3,79.9,8.1,34,Flowering,Kharif,North Zone,High,Stem Borer
+20.9,80.8,109.5,68.5,7.9,32,Flowering,Rabi,Central Zone,High,Pink Stem Borer
+38.2,41.7,22.1,23.5,11.7,46,Vegetative,Summer,West Zone,High,Termites
+32.6,67.0,209.9,77.4,6.8,15,Seedling,Kharif,South Zone,High,White Grub
+33.5,76.6,129.0,65.7,11.8,52,Flowering,Summer,Central Zone,Medium,Fall Armyworm
+29.2,71.7,45.1,51.0,12.8,57,Maturity,Kharif,South Zone,Medium,Corn Earworm
+29.2,79.9,99.2,67.4,2.9,47,Flowering,Rabi,West Zone,High,Stem Borer
+23.8,77.0,52.6,64.5,8.7,42,Vegetative,Rabi,North Zone,Medium,Pink Stem Borer
+41.3,27.9,31.6,35.8,8.7,46,Maturity,Rabi,South Zone,Medium,Termites
+24.4,77.7,73.3,75.6,9.2,42,Flowering,Rabi,Central Zone,High,Pink Stem Borer
+32.3,75.8,72.9,66.3,15.6,36,Vegetative,Kharif,North Zone,High,Fall Armyworm
+30.4,31.6,21.3,24.1,8.6,19,Maturity,Rabi,Central Zone,Low,Termites
+24.9,68.2,20.3,55.6,3.4,74,Maturity,Summer,Central Zone,Medium,Aphids
+26.0,68.2,185.6,76.6,7.8,39,Seedling,Kharif,West Zone,High,White Grub
+30.1,61.5,177.3,80.7,8.0,43,Seedling,Kharif,North Zone,High,White Grub
+28.5,69.4,41.3,51.2,5.3,44,Maturity,Rabi,East Zone,Low,Aphids
+25.0,84.5,160.5,75.5,5.5,47,Vegetative,Rabi,East Zone,Medium,Corn Rootworm
+31.6,79.6,167.0,86.9,7.0,55,Flowering,Kharif,West Zone,Medium,Stem Borer
+34.4,50.8,61.3,46.4,16.7,18,Seedling,Summer,South Zone,High,Shoot Fly
+20.1,53.4,52.5,36.4,12.7,20,Seedling,Rabi,South Zone,Low,Cutworm
+28.4,76.0,49.5,58.2,4.7,53,Flowering,Rabi,Central Zone,Low,Aphids
+33.1,59.6,26.3,38.4,13.0,11,Seedling,Summer,North Zone,Medium,Shoot Fly
+24.9,72.3,151.3,66.3,10.0,34,Seedling,Kharif,West Zone,Medium,White Grub
+34.4,61.8,45.1,49.1,17.4,26,Seedling,Kharif,Central Zone,High,Shoot Fly
+26.8,70.9,32.8,59.6,4.8,71,Flowering,Summer,South Zone,Medium,Aphids
+28.2,77.4,70.6,60.3,8.4,38,Vegetative,Rabi,West Zone,High,Pink Stem Borer
+29.8,35.6,9.1,30.8,14.0,14,Maturity,Rabi,South Zone,High,Termites
+31.6,57.8,231.5,80.1,7.1,18,Vegetative,Kharif,North Zone,High,White Grub
+31.4,78.9,93.3,69.6,10.2,33,Vegetative,Summer,East Zone,Medium,Fall Armyworm
+32.2,54.5,28.5,46.0,17.0,26,Seedling,Kharif,Central Zone,Medium,Shoot Fly
+27.3,79.1,33.2,45.7,7.7,55,Maturity,Summer,East Zone,Medium,Aphids
+24.6,64.6,65.7,68.6,12.8,86,Maturity,Kharif,East Zone,High,Corn Earworm
+34.0,68.6,36.8,47.4,14.6,19,Seedling,Kharif,South Zone,High,Shoot Fly
+25.7,79.4,63.1,68.8,9.8,38,Vegetative,Rabi,East Zone,Medium,Pink Stem Borer
+20.0,64.6,29.1,32.5,14.8,22,Seedling,Kharif,South Zone,Medium,Cutworm
+29.5,71.6,46.0,57.2,3.3,64,Maturity,Kharif,West Zone,Medium,Corn Earworm
+33.4,65.5,203.9,84.6,6.7,19,Vegetative,Kharif,East Zone,High,White Grub
+23.2,76.8,21.6,50.8,5.0,75,Flowering,Summer,South Zone,Low,Aphids
+26.5,66.8,115.7,63.5,10.3,33,Vegetative,Kharif,North Zone,High,Fall Armyworm
+31.7,79.0,150.5,75.6,10.3,38,Vegetative,Kharif,East Zone,High,White Grub
+30.3,61.8,58.3,49.8,8.2,24,Seedling,Kharif,North Zone,High,Shoot Fly
+23.5,80.6,132.5,84.9,10.0,32,Flowering,Kharif,East Zone,Medium,Corn Rootworm
+32.0,56.0,67.2,47.1,19.4,17,Seedling,Kharif,North Zone,High,Shoot Fly
+25.6,79.2,96.7,72.7,8.3,43,Flowering,Kharif,East Zone,Medium,Corn Rootworm
+27.4,94.2,151.1,89.0,5.8,50,Vegetative,Kharif,East Zone,Medium,Corn Rootworm
+18.5,71.0,51.3,56.0,15.5,15,Seedling,Kharif,East Zone,High,Cutworm
+26.8,81.4,42.9,54.4,7.7,78,Maturity,Summer,East Zone,Medium,Aphids
+25.0,77.7,83.6,55.2,10.1,63,Flowering,Rabi,South Zone,High,Pink Stem Borer
+25.0,71.7,68.1,64.4,9.9,56,Flowering,Summer,East Zone,Medium,Corn Earworm
+26.3,83.7,122.7,81.2,8.0,43,Vegetative,Rabi,North Zone,Medium,Stem Borer
+30.3,78.2,122.3,71.8,10.1,60,Vegetative,Kharif,Central Zone,High,Stem Borer
+32.9,78.8,172.3,59.8,5.0,36,Flowering,Kharif,West Zone,Medium,Stem Borer
+23.6,68.2,14.2,53.3,5.6,54,Flowering,Summer,South Zone,Medium,Aphids
+28.9,74.1,90.3,65.3,9.8,88,Flowering,Kharif,East Zone,Medium,Corn Earworm
+30.6,68.5,41.2,38.5,14.4,22,Seedling,Kharif,Central Zone,High,Shoot Fly
+27.7,69.5,172.0,80.4,6.8,19,Seedling,Kharif,Central Zone,High,White Grub
+24.0,90.4,142.4,94.5,9.4,58,Flowering,Rabi,Central Zone,High,Corn Rootworm
+25.4,55.3,56.5,54.5,11.8,7,Seedling,Kharif,East Zone,Medium,Cutworm
+25.3,89.7,142.5,76.7,8.5,41,Vegetative,Rabi,North Zone,Medium,Corn Rootworm
+33.1,41.7,17.0,28.7,13.3,27,Maturity,Rabi,Central Zone,Medium,Termites
+28.4,87.7,64.5,63.2,13.1,51,Vegetative,Kharif,West Zone,Medium,Fall Armyworm
+27.5,74.5,29.4,53.3,5.5,78,Flowering,Rabi,South Zone,Medium,Aphids
+27.8,89.2,151.8,76.2,6.8,60,Flowering,Rabi,South Zone,Medium,Corn Rootworm
+24.4,80.0,139.0,78.8,8.3,49,Vegetative,Rabi,West Zone,Medium,Corn Rootworm
+18.8,77.0,31.6,57.0,17.2,21,Seedling,Kharif,Central Zone,Medium,Cutworm
+24.6,79.3,17.7,61.6,6.0,66,Flowering,Rabi,South Zone,Low,Aphids
+24.5,73.5,38.1,45.3,4.5,47,Maturity,Summer,Central Zone,Medium,Aphids
+29.4,64.9,223.7,74.0,11.1,21,Vegetative,Kharif,South Zone,Medium,White Grub
+31.5,73.1,109.9,,11.4,54,Vegetative,Kharif,East Zone,Medium,Fall Armyworm
+29.0,80.1,39.2,46.3,3.8,48,Maturity,Rabi,North Zone,Low,Aphids
+26.5,71.2,95.9,42.6,10.0,55,Maturity,Kharif,West Zone,High,Corn Earworm
+26.4,73.6,42.9,53.4,8.6,71,Maturity,Summer,East Zone,Low,Aphids
+29.1,85.7,189.1,84.2,5.3,39,Vegetative,Rabi,North Zone,High,Stem Borer
+34.2,37.2,24.9,34.1,8.5,70,Vegetative,Summer,West Zone,Medium,Termites
+31.2,67.9,146.0,63.9,12.2,27,Flowering,Kharif,West Zone,High,Fall Armyworm
+21.1,73.0,2.4,54.9,13.6,6,Seedling,Rabi,North Zone,Medium,Cutworm
+33.6,53.8,11.1,34.6,12.1,36,Maturity,Rabi,East Zone,High,Termites
+35.5,54.7,39.0,52.7,16.5,12,Seedling,Summer,East Zone,Medium,Shoot Fly
+26.1,68.8,173.5,83.9,7.3,35,Vegetative,Kharif,East Zone,Medium,White Grub
+23.7,80.6,79.5,51.9,3.5,33,Vegetative,Kharif,West Zone,High,Fall Armyworm
+34.6,61.0,46.6,54.7,17.2,7,Seedling,Summer,Central Zone,High,Shoot Fly
+32.7,76.4,139.0,63.7,7.4,55,Vegetative,Kharif,Central Zone,Medium,Stem Borer
+29.4,75.8,161.6,82.4,10.8,37,Seedling,Kharif,North Zone,High,White Grub
+28.5,62.8,30.9,57.2,10.8,10,Seedling,Kharif,Central Zone,Low,Cutworm
+36.0,57.7,41.5,41.7,17.5,27,Seedling,Summer,East Zone,Medium,Shoot Fly
+27.6,66.1,118.3,53.2,10.1,89,Flowering,Kharif,South Zone,High,Corn Earworm
+34.3,46.9,57.2,37.6,17.9,24,Seedling,Kharif,South Zone,High,Shoot Fly
+28.6,81.5,137.6,74.9,12.8,44,Vegetative,Summer,East Zone,Medium,Fall Armyworm
+30.4,75.1,146.8,62.4,8.9,51,Flowering,Kharif,East Zone,High,Fall Armyworm
+37.0,33.6,10.5,21.3,9.6,72,Vegetative,Summer,East Zone,High,Termites
+32.8,61.9,64.3,48.7,14.3,21,Seedling,Kharif,North Zone,Medium,Shoot Fly
+34.4,44.1,32.7,,,29,Maturity,Rabi,Central Zone,Medium,Termites
+31.0,48.4,60.0,49.0,17.0,21,Seedling,Summer,South Zone,High,Shoot Fly
+30.7,85.0,97.9,75.6,11.9,43,Flowering,Kharif,North Zone,High,Fall Armyworm
+33.2,44.7,24.1,32.1,11.2,59,Vegetative,Rabi,South Zone,High,Termites
+23.9,91.9,91.3,70.1,8.2,48,Flowering,Rabi,East Zone,High,Pink Stem Borer
+31.5,84.1,140.8,72.9,7.8,36,Vegetative,Kharif,South Zone,Medium,Stem Borer
+23.1,79.1,97.8,80.7,12.1,32,Vegetative,Kharif,North Zone,Medium,Fall Armyworm
+28.0,77.8,83.8,71.8,12.9,44,Flowering,Kharif,Central Zone,High,Fall Armyworm
+25.9,76.0,70.6,55.4,9.4,46,Vegetative,Rabi,South Zone,High,Pink Stem Borer
+25.0,82.5,70.0,67.9,11.2,75,Vegetative,Rabi,South Zone,Medium,Pink Stem Borer
+29.3,72.8,122.0,71.9,9.2,44,Seedling,Kharif,North Zone,High,White Grub
+35.2,57.9,46.5,42.2,13.1,24,Seedling,Kharif,North Zone,High,Shoot Fly
+24.6,72.5,93.1,,9.4,47,Vegetative,Rabi,East Zone,Medium,Pink Stem Borer
+27.0,84.7,160.2,77.7,5.5,43,Vegetative,Kharif,Central Zone,Medium,Stem Borer
+25.5,79.1,123.7,88.2,,37,Vegetative,Kharif,Central Zone,Medium,Corn Rootworm
+35.0,32.2,26.5,30.1,4.0,63,Vegetative,Rabi,West Zone,High,Termites
+26.6,84.9,160.1,75.4,0.6,31,Vegetative,Kharif,Central Zone,High,Corn Rootworm
+33.6,62.3,24.6,38.2,24.6,28,Seedling,Summer,East Zone,High,Shoot Fly
+32.4,65.8,40.2,30.4,14.4,24,Seedling,Kharif,West Zone,High,Shoot Fly
+24.5,83.0,127.1,83.6,6.7,45,Vegetative,Kharif,Central Zone,High,Corn Rootworm
+22.8,77.4,10.5,33.6,7.5,63,Maturity,Summer,North Zone,Medium,Aphids
+32.3,77.7,75.1,62.3,11.2,38,Flowering,Kharif,South Zone,High,Fall Armyworm
+22.0,71.3,36.5,61.4,,40,Maturity,Rabi,East Zone,Low,Aphids
+32.9,68.4,126.5,61.6,12.9,37,Flowering,Summer,Central Zone,High,Fall Armyworm
+23.5,86.6,54.3,69.4,7.4,39,Vegetative,Rabi,West Zone,Medium,Pink Stem Borer
+32.7,58.5,37.3,44.9,14.8,11,Seedling,Summer,East Zone,High,Shoot Fly
+24.5,80.4,84.4,71.5,5.9,45,Vegetative,Rabi,East Zone,High,Pink Stem Borer
+31.2,77.3,157.6,79.3,3.2,66,Flowering,Kharif,East Zone,Medium,Stem Borer
+30.2,69.2,133.4,87.5,7.4,20,Vegetative,Kharif,Central Zone,Medium,White Grub
+24.0,75.4,36.9,48.9,8.3,42,Maturity,Rabi,East Zone,Low,Aphids
+34.1,42.6,42.1,41.1,16.7,20,Seedling,Kharif,South Zone,Medium,Shoot Fly
+18.8,92.7,79.6,66.0,10.4,30,Flowering,Rabi,East Zone,Medium,Pink Stem Borer
+42.0,47.0,29.5,30.8,10.6,15,Maturity,Summer,Central Zone,Medium,Termites
+20.6,59.2,34.7,42.8,13.7,9,Seedling,Rabi,West Zone,High,Cutworm
+25.8,73.1,158.7,79.0,7.7,39,Seedling,Kharif,West Zone,Medium,White Grub
+33.7,81.8,17.6,51.9,4.8,65,Flowering,Rabi,North Zone,Medium,Aphids
+27.5,64.0,175.1,73.2,11.4,33,Seedling,Kharif,East Zone,High,White Grub
+31.5,87.5,114.4,78.3,9.6,55,Flowering,Kharif,West Zone,Medium,Stem Borer
+33.6,33.8,36.1,31.4,12.9,35,Maturity,Rabi,Central Zone,High,Termites
+19.5,56.5,36.5,53.9,9.7,22,Seedling,Rabi,North Zone,Low,Cutworm
+26.0,66.6,18.8,55.4,7.2,67,Maturity,Rabi,West Zone,Low,Aphids
+24.2,79.9,104.3,79.8,8.3,48,Flowering,Kharif,East Zone,High,Corn Rootworm
+25.9,77.5,49.2,66.9,6.4,71,Vegetative,Rabi,South Zone,High,Pink Stem Borer
+32.0,70.6,62.4,46.1,10.5,26,Seedling,Kharif,West Zone,Medium,Shoot Fly
+31.5,83.3,100.6,78.8,15.9,34,Vegetative,Summer,South Zone,High,Fall Armyworm
+32.8,83.2,157.6,84.9,9.1,37,Vegetative,Kharif,East Zone,Medium,Stem Borer
+29.7,75.8,116.0,57.7,11.6,41,Flowering,Kharif,West Zone,High,Fall Armyworm
+32.7,58.9,213.7,85.9,7.9,15,Vegetative,Kharif,Central Zone,Medium,White Grub
+23.6,65.0,63.4,63.8,8.4,11,Seedling,Kharif,West Zone,High,Cutworm
+25.2,79.0,71.5,59.9,11.5,39,Vegetative,Rabi,Central Zone,High,Pink Stem Borer
+38.1,34.1,6.7,27.7,12.3,15,Maturity,Summer,East Zone,Low,Termites
+22.7,73.8,56.8,63.7,15.3,24,Seedling,Kharif,West Zone,Low,Cutworm
+27.5,77.0,136.5,67.6,13.5,24,Vegetative,Summer,East Zone,High,Fall Armyworm
+28.9,77.9,136.3,77.2,6.4,31,Flowering,Rabi,West Zone,Medium,Stem Borer
+34.3,32.5,31.2,28.2,15.4,22,Maturity,Rabi,Central Zone,High,Termites
+32.6,81.7,109.7,60.4,4.3,41,Vegetative,Rabi,North Zone,Medium,Stem Borer
+17.9,74.6,46.7,58.5,5.1,21,Seedling,Kharif,West Zone,Medium,Cutworm
+22.6,89.4,137.2,81.1,8.1,35,Vegetative,Rabi,East Zone,High,Corn Rootworm
+30.1,73.9,30.7,51.5,10.8,55,Maturity,Rabi,West Zone,Medium,Aphids
+25.8,81.4,107.1,72.5,10.0,55,Vegetative,Kharif,East Zone,Medium,Fall Armyworm
+24.9,88.6,207.8,86.8,5.3,33,Vegetative,Rabi,West Zone,Medium,Corn Rootworm
+20.7,61.8,18.1,52.0,16.9,23,Seedling,Rabi,East Zone,Medium,Cutworm
+21.5,85.2,78.8,59.9,7.7,51,Flowering,Rabi,South Zone,Medium,Pink Stem Borer
+32.0,74.4,85.2,58.1,10.2,92,Maturity,Summer,South Zone,Medium,Corn Earworm
+24.7,64.5,50.4,51.2,6.8,73,Flowering,Summer,Central Zone,Low,Aphids
+27.9,65.6,81.3,47.2,16.8,75,Flowering,Summer,South Zone,Medium,Corn Earworm
+30.5,51.7,43.4,54.0,15.1,11,Seedling,Summer,West Zone,High,Shoot Fly
+22.5,91.3,148.3,85.2,8.4,44,Flowering,Rabi,South Zone,Medium,Corn Rootworm
+34.3,90.7,119.4,86.4,9.0,38,Vegetative,Kharif,Central Zone,High,Stem Borer
+25.0,71.5,66.9,59.3,9.7,69,Vegetative,Rabi,South Zone,Medium,Pink Stem Borer
+33.7,67.6,109.4,77.0,11.4,42,Vegetative,Summer,South Zone,High,Fall Armyworm
+37.2,42.8,23.4,28.4,7.4,87,Maturity,Rabi,West Zone,Low,Termites
+27.2,76.3,160.7,77.0,7.9,30,Seedling,Kharif,South Zone,Medium,White Grub
+21.1,72.3,40.0,42.9,17.0,6,Seedling,Kharif,East Zone,Low,Cutworm
+24.6,85.2,170.2,81.9,7.6,39,Vegetative,Kharif,South Zone,Medium,Corn Rootworm
+27.1,70.7,181.3,67.1,9.5,42,Vegetative,Kharif,West Zone,High,White Grub
+22.3,65.3,60.6,58.0,19.9,18,Seedling,Kharif,Central Zone,Low,Cutworm
+23.0,85.7,132.1,75.6,8.9,45,Flowering,Kharif,West Zone,Medium,Corn Rootworm
+35.8,71.9,177.7,78.6,7.2,41,Seedling,Kharif,Central Zone,Medium,White Grub
+29.5,34.4,6.1,40.2,10.7,60,Vegetative,Rabi,North Zone,High,Termites
+21.0,71.2,28.2,48.1,14.3,14,Seedling,Kharif,East Zone,Medium,Cutworm
+28.6,77.5,32.5,50.6,6.8,69,Flowering,Summer,Central Zone,Medium,Aphids
+31.5,72.9,111.2,59.4,12.2,53,Vegetative,Kharif,West Zone,High,Fall Armyworm
+28.5,92.2,138.8,65.2,7.7,62,Vegetative,Kharif,West Zone,Medium,Stem Borer
+26.0,93.4,115.3,72.5,8.6,45,Flowering,Kharif,West Zone,Medium,Corn Rootworm
+21.2,77.8,65.4,64.5,9.4,75,Vegetative,Rabi,North Zone,High,Pink Stem Borer
+24.3,73.6,29.9,51.2,6.2,60,Flowering,Rabi,North Zone,Low,Aphids
+31.1,77.1,173.7,81.2,5.0,35,Vegetative,Kharif,Central Zone,Medium,White Grub
+25.1,87.4,148.2,77.8,5.7,57,Vegetative,Rabi,North Zone,High,Corn Rootworm
+26.6,73.2,105.7,56.7,12.7,76,Maturity,Summer,South Zone,Medium,Corn Earworm
+28.3,69.3,80.8,66.0,11.0,66,Maturity,Kharif,East Zone,High,Corn Earworm
+31.7,70.7,35.2,45.8,4.3,68,Maturity,Rabi,South Zone,Low,Aphids
+22.0,66.0,88.8,53.3,9.5,5,Seedling,Kharif,West Zone,Low,Cutworm
+30.7,59.6,156.8,78.1,11.0,42,Vegetative,Kharif,Central Zone,Medium,White Grub
+32.4,69.0,154.7,72.6,6.2,22,Seedling,Kharif,West Zone,High,White Grub
+25.6,78.6,119.6,76.0,8.1,53,Vegetative,Kharif,Central Zone,Medium,Corn Rootworm
+30.5,68.5,11.5,49.0,6.0,79,Flowering,Rabi,South Zone,Low,Aphids
+31.5,75.8,105.0,70.9,15.1,42,Vegetative,Kharif,Central Zone,Medium,Fall Armyworm
+20.1,78.2,73.8,58.6,11.5,49,Flowering,Rabi,North Zone,Medium,Pink Stem Borer
+28.2,81.8,156.7,70.9,3.4,56,Vegetative,Kharif,Central Zone,High,Stem Borer
+23.1,85.1,63.9,59.1,9.9,66,Vegetative,Rabi,Central Zone,High,Pink Stem Borer
+32.3,55.9,52.2,50.4,23.3,8,Seedling,Summer,East Zone,High,Shoot Fly
+34.7,69.3,42.4,37.8,15.2,19,Seedling,Summer,Central Zone,High,Shoot Fly
+29.7,77.7,134.7,77.8,8.9,48,Flowering,Kharif,East Zone,Medium,Stem Borer
+34.0,62.3,42.4,41.4,10.8,23,Seedling,Kharif,South Zone,Medium,Shoot Fly
+27.6,80.1,66.0,58.5,13.9,33,Vegetative,Rabi,West Zone,Medium,Pink Stem Borer
+21.9,77.9,77.5,69.2,9.9,75,Flowering,Rabi,Central Zone,High,Pink Stem Borer
+36.6,64.0,34.2,43.2,16.1,15,Seedling,Kharif,Central Zone,Medium,Shoot Fly
+28.1,73.0,91.6,66.3,9.7,61,Flowering,Rabi,South Zone,High,Pink Stem Borer
+23.8,75.8,83.5,69.6,9.9,44,Flowering,Rabi,North Zone,Medium,Pink Stem Borer
+29.5,79.6,93.2,80.7,9.1,31,Flowering,Kharif,Central Zone,Medium,Stem Borer
+23.1,82.3,118.3,73.1,5.4,51,Vegetative,Rabi,Central Zone,High,Corn Rootworm
+18.6,62.1,33.9,40.4,22.1,5,Seedling,Rabi,East Zone,High,Cutworm
+29.1,71.1,32.7,53.3,8.4,44,Maturity,Summer,North Zone,Medium,Aphids
+27.9,86.4,123.6,65.6,9.8,51,Flowering,Rabi,South Zone,Medium,Stem Borer
+25.9,83.1,27.0,61.3,12.4,15,Seedling,Kharif,West Zone,High,Cutworm
+32.0,63.2,115.8,72.6,9.2,40,Seedling,Kharif,West Zone,Medium,White Grub
+26.4,74.0,105.5,64.8,14.9,95,Maturity,Summer,West Zone,High,Corn Earworm
+25.8,78.9,164.1,78.4,8.8,28,Flowering,Rabi,South Zone,Medium,Corn Rootworm
+27.1,82.3,43.1,58.6,10.6,73,Flowering,Rabi,North Zone,High,Pink Stem Borer
+27.6,70.5,100.2,65.6,10.8,72,Flowering,Rabi,Central Zone,High,Corn Earworm
+27.5,68.1,102.2,64.4,9.2,91,Maturity,Rabi,Central Zone,Medium,Corn Earworm
+31.7,81.5,114.5,69.7,5.6,49,Flowering,Kharif,West Zone,High,Stem Borer
+29.0,86.9,115.8,76.3,6.4,61,Vegetative,Rabi,East Zone,High,Stem Borer
+21.2,54.4,41.7,53.3,16.2,21,Seedling,Kharif,North Zone,Low,Cutworm
+33.4,50.4,66.3,46.5,15.7,8,Seedling,Summer,West Zone,Medium,Shoot Fly
+35.0,35.9,22.2,32.9,5.8,13,Maturity,Summer,East Zone,Low,Termites
+28.7,70.5,169.0,86.4,7.1,38,Vegetative,Kharif,South Zone,High,White Grub
+28.5,79.9,116.0,72.6,9.9,63,Vegetative,Kharif,West Zone,Medium,Stem Borer
+22.9,87.1,87.5,78.6,6.3,58,Vegetative,Kharif,North Zone,High,Corn Rootworm
+27.3,78.6,30.4,51.0,8.1,35,Flowering,Rabi,North Zone,High,Pink Stem Borer
+30.7,83.5,145.0,83.1,6.7,63,Flowering,Kharif,South Zone,High,Stem Borer
+34.8,46.9,36.4,32.4,14.0,13,Seedling,Summer,East Zone,High,Shoot Fly
+34.9,40.9,20.6,24.4,10.4,50,Maturity,Summer,South Zone,Medium,Termites
+24.3,78.2,78.9,56.1,14.8,72,Flowering,Kharif,South Zone,Medium,Corn Earworm
+31.3,31.0,9.0,29.6,12.3,54,Maturity,Rabi,East Zone,Low,Termites
+25.5,92.9,29.5,69.3,6.9,45,Vegetative,Rabi,East Zone,Medium,Pink Stem Borer
+22.8,76.9,53.6,76.8,9.7,51,Flowering,Rabi,South Zone,Medium,Pink Stem Borer
+31.1,84.8,72.2,57.4,5.5,50,Flowering,Kharif,West Zone,Medium,Fall Armyworm
+29.3,78.8,112.6,69.2,7.8,25,Vegetative,Kharif,Central Zone,Medium,Fall Armyworm
+25.6,81.2,83.2,51.8,8.6,70,Flowering,Rabi,East Zone,High,Pink Stem Borer
+30.6,56.8,58.0,45.6,12.0,13,Seedling,Summer,Central Zone,High,Shoot Fly
+28.0,60.8,108.0,58.4,13.4,60,Maturity,Rabi,West Zone,Medium,Corn Earworm
+24.7,72.4,22.4,57.0,4.6,69,Maturity,Rabi,South Zone,Low,Aphids
+25.3,78.1,34.4,61.0,5.6,46,Flowering,Rabi,South Zone,High,Pink Stem Borer
+33.1,50.5,63.9,44.4,14.4,17,Seedling,Kharif,North Zone,High,Shoot Fly
+30.8,85.9,139.4,69.6,3.6,60,Vegetative,Rabi,West Zone,High,Stem Borer
+26.3,66.3,87.1,57.2,12.1,73,Maturity,Summer,Central Zone,Medium,Corn Earworm
+28.3,81.8,175.5,77.4,7.8,55,Vegetative,Rabi,East Zone,Medium,Stem Borer
+33.2,34.9,11.5,26.8,13.3,69,Maturity,Rabi,Central Zone,Low,Termites
+21.3,55.6,71.5,57.9,8.4,22,Seedling,Rabi,West Zone,Medium,Cutworm
+28.6,82.4,191.1,67.2,10.4,51,Vegetative,Rabi,Central Zone,High,Stem Borer
+35.8,55.0,45.8,37.7,14.3,24,Seedling,Summer,North Zone,Medium,Shoot Fly
+23.9,83.3,89.6,59.8,4.1,61,Vegetative,Rabi,East Zone,High,Pink Stem Borer
+34.9,42.3,22.5,28.0,11.4,22,Maturity,Summer,West Zone,Medium,Termites
+32.5,83.5,128.8,71.5,7.6,68,Vegetative,Rabi,West Zone,High,Stem Borer
+35.1,77.1,109.5,64.1,15.3,25,Vegetative,Kharif,North Zone,High,Fall Armyworm
+32.9,72.7,86.7,60.3,2.8,64,Maturity,Summer,West Zone,High,Corn Earworm
+25.5,80.7,77.7,60.0,7.2,66,Flowering,Rabi,South Zone,Medium,Pink Stem Borer
+32.2,68.2,44.3,59.6,16.5,16,Seedling,Kharif,East Zone,High,Shoot Fly
+26.9,81.5,120.4,59.6,12.0,67,Vegetative,Rabi,East Zone,Medium,Stem Borer
+32.8,80.7,114.1,56.9,10.5,43,Flowering,Kharif,Central Zone,Medium,Fall Armyworm
+34.7,51.6,12.0,43.4,14.5,10,Seedling,Kharif,South Zone,Medium,Shoot Fly
+25.3,88.6,145.9,83.6,9.4,50,Flowering,Rabi,West Zone,High,Corn Rootworm
+22.0,87.5,145.7,74.6,4.0,59,Vegetative,Kharif,South Zone,High,Corn Rootworm
+19.8,60.4,56.3,49.5,10.6,22,Seedling,Kharif,West Zone,Medium,Cutworm
+26.5,76.7,85.3,58.6,9.7,73,Maturity,Kharif,North Zone,Medium,Corn Earworm
+32.1,79.0,179.5,,7.6,31,Vegetative,Rabi,South Zone,High,Stem Borer
+34.5,77.8,129.4,66.4,10.4,38,Flowering,Rabi,Central Zone,High,Stem Borer
+32.2,80.0,109.5,58.4,8.9,84,Maturity,Rabi,West Zone,High,Corn Earworm
+29.7,76.3,57.0,41.6,19.6,14,Seedling,Summer,Central Zone,High,Shoot Fly
+28.6,80.0,105.7,73.1,11.8,51,Flowering,Kharif,Central Zone,High,Fall Armyworm
+22.4,75.4,40.5,49.8,7.6,66,Maturity,Rabi,Central Zone,Low,Aphids
+27.4,71.8,138.1,83.2,9.1,37,Vegetative,Kharif,Central Zone,Medium,White Grub
+31.7,78.5,184.2,79.9,6.5,45,Seedling,Kharif,Central Zone,Medium,White Grub
+26.0,72.3,26.6,47.0,4.0,69,Flowering,Rabi,West Zone,Low,Aphids
+25.6,79.3,145.8,65.6,8.0,70,Flowering,Kharif,Central Zone,High,Stem Borer
+35.8,83.1,151.1,71.1,15.5,50,Vegetative,Summer,Central Zone,High,Fall Armyworm
+31.6,54.8,8.9,53.3,20.4,20,Seedling,Kharif,East Zone,High,Shoot Fly
+26.6,68.5,69.9,63.1,13.4,57,Maturity,Summer,Central Zone,High,Corn Earworm
+21.6,77.0,27.2,50.9,6.9,43,Maturity,Rabi,East Zone,Low,Aphids
+23.6,79.5,66.2,,8.8,31,Flowering,Rabi,North Zone,High,Pink Stem Borer
+28.6,62.4,77.4,67.2,10.1,87,Flowering,Rabi,South Zone,High,Corn Earworm
+25.3,88.8,88.7,65.7,7.0,47,Flowering,Rabi,North Zone,High,Pink Stem Borer
+24.4,81.3,130.2,77.7,7.6,68,Vegetative,Kharif,East Zone,High,Stem Borer
+27.2,59.3,66.2,63.8,15.1,71,Maturity,Kharif,South Zone,High,Corn Earworm
+34.7,42.6,29.5,25.1,12.1,14,Maturity,Summer,Central Zone,Low,Termites
+26.1,75.2,88.0,62.4,7.7,86,Maturity,Rabi,West Zone,Medium,Corn Earworm
+29.8,82.5,64.8,57.3,10.7,68,Maturity,Summer,North Zone,High,Corn Earworm
+28.0,72.2,1.7,60.9,7.5,47,Flowering,Rabi,West Zone,Medium,Aphids
+25.6,68.4,214.9,88.1,11.3,24,Vegetative,Kharif,West Zone,Medium,White Grub
+24.6,85.4,126.7,88.8,5.2,55,Flowering,Kharif,North Zone,High,Corn Rootworm
+24.0,80.1,29.6,61.0,4.7,68,Maturity,Summer,North Zone,Low,Aphids
+34.8,32.6,20.1,21.1,9.5,55,Maturity,Rabi,East Zone,Medium,Termites
+22.4,78.5,37.2,36.2,8.7,46,Maturity,Summer,South Zone,Medium,Aphids
+29.0,80.2,58.5,84.8,5.4,42,Flowering,Rabi,East Zone,Medium,Pink Stem Borer
+35.1,41.4,33.5,32.2,9.5,11,Vegetative,Summer,West Zone,Low,Termites
+27.6,80.6,109.8,75.3,6.6,63,Vegetative,Rabi,South Zone,High,Stem Borer
+22.3,81.3,25.0,39.9,5.7,56,Flowering,Rabi,Central Zone,Low,Aphids
+29.6,75.0,149.9,67.7,12.3,33,Vegetative,Kharif,North Zone,Medium,Stem Borer
+25.0,78.0,56.6,64.3,9.2,38,Flowering,Rabi,North Zone,Medium,Pink Stem Borer
+27.9,68.7,86.2,55.2,9.0,71,Maturity,Rabi,West Zone,Medium,Corn Earworm
+20.8,79.9,33.0,43.8,9.8,67,Maturity,Summer,North Zone,Low,Aphids
+26.2,69.8,38.6,53.2,6.8,43,Maturity,Summer,North Zone,Medium,Aphids
+24.9,77.3,27.4,54.4,2.2,56,Flowering,Summer,West Zone,Low,Aphids
+20.7,77.1,33.5,49.6,12.2,24,Seedling,Kharif,West Zone,Low,Cutworm
+27.1,73.2,133.1,76.0,7.9,39,Flowering,Kharif,West Zone,Medium,Stem Borer
+25.6,75.2,40.2,48.5,4.9,46,Flowering,Rabi,Central Zone,Low,Aphids
+25.3,77.9,44.1,45.0,6.2,68,Flowering,Summer,North Zone,Low,Aphids
+31.8,73.0,110.5,56.3,6.7,44,Vegetative,Kharif,East Zone,High,Fall Armyworm
+25.7,83.1,135.1,81.9,5.0,25,Flowering,Rabi,West Zone,High,Corn Rootworm
+29.4,77.1,181.7,65.5,7.5,64,Vegetative,Kharif,West Zone,High,Stem Borer
+27.4,84.3,130.1,71.4,10.1,66,Flowering,Rabi,West Zone,High,Stem Borer
+31.1,80.6,85.5,56.8,12.3,25,Vegetative,Summer,North Zone,High,Fall Armyworm
+29.2,75.8,157.2,79.4,4.9,39,Vegetative,Kharif,South Zone,Medium,White Grub
+40.7,38.7,27.0,25.0,11.9,15,Maturity,Summer,West Zone,Medium,Termites
+26.9,83.8,129.3,75.2,9.7,70,Flowering,Rabi,West Zone,Medium,Stem Borer
+18.3,60.2,51.9,73.9,13.4,9,Seedling,Rabi,North Zone,Low,Cutworm
+25.2,79.5,105.0,52.8,8.2,45,Flowering,Rabi,North Zone,High,Pink Stem Borer
+30.1,19.9,23.0,30.8,10.1,49,Maturity,Rabi,North Zone,Low,Termites
+32.8,84.8,46.1,48.6,12.7,8,Seedling,Kharif,West Zone,Medium,Shoot Fly
+30.1,81.0,127.7,87.7,10.9,43,Flowering,Kharif,North Zone,Medium,Stem Borer
+31.3,66.5,101.0,89.6,11.3,29,Vegetative,Summer,West Zone,Medium,Fall Armyworm
+26.2,87.2,73.9,59.1,3.1,32,Vegetative,Rabi,North Zone,Medium,Pink Stem Borer
+29.7,65.1,88.5,50.0,9.2,95,Flowering,Rabi,West Zone,Medium,Corn Earworm
+24.1,81.3,49.9,73.4,6.8,40,Vegetative,Rabi,North Zone,Medium,Pink Stem Borer
+25.8,71.3,161.2,79.1,12.4,34,Seedling,Kharif,South Zone,Medium,White Grub
+24.5,84.4,102.4,86.9,7.4,46,Flowering,Rabi,Central Zone,Medium,Corn Rootworm
+33.7,24.8,34.4,22.6,9.2,27,Maturity,Summer,Central Zone,Low,Termites
+28.9,62.8,55.1,43.0,12.2,76,Flowering,Kharif,South Zone,High,Corn Earworm
+23.9,99.6,105.1,76.5,5.9,35,Flowering,Kharif,South Zone,High,Corn Rootworm
+24.5,77.6,81.0,58.1,5.2,32,Vegetative,Rabi,Central Zone,Medium,Pink Stem Borer
+21.4,73.9,117.0,80.2,5.7,35,Vegetative,Rabi,North Zone,Medium,Corn Rootworm
+34.1,84.1,101.6,53.6,10.3,31,Vegetative,Summer,Central Zone,High,Fall Armyworm
+24.5,71.7,23.0,44.8,5.2,66,Maturity,Rabi,South Zone,Low,Aphids
+24.4,76.0,33.6,42.7,8.5,73,Maturity,Summer,South Zone,Low,Aphids
+22.0,71.9,76.9,59.3,8.6,74,Vegetative,Rabi,West Zone,Medium,Pink Stem Borer
+19.2,87.0,82.1,54.5,5.0,35,Flowering,Rabi,West Zone,High,Pink Stem Borer
+35.2,74.3,89.1,49.9,10.9,55,Vegetative,Kharif,Central Zone,Medium,Fall Armyworm
+29.0,84.9,98.0,64.4,9.1,69,Flowering,Kharif,South Zone,High,Stem Borer
+28.5,67.1,40.8,50.3,8.2,43,Flowering,Rabi,West Zone,Low,Aphids
+29.8,56.9,154.7,85.4,6.8,20,Seedling,Kharif,North Zone,Medium,White Grub
+32.2,58.6,6.5,56.7,11.8,16,Seedling,Summer,East Zone,High,Shoot Fly
+34.0,59.3,68.9,47.8,14.2,26,Seedling,Kharif,North Zone,Medium,Shoot Fly
+28.8,82.0,63.2,73.2,8.7,54,Vegetative,Kharif,West Zone,Medium,Fall Armyworm
+38.8,41.3,26.4,30.5,5.7,24,Vegetative,Summer,West Zone,High,Termites
+22.3,83.4,73.0,73.3,8.8,67,Flowering,Rabi,South Zone,High,Pink Stem Borer
+31.1,53.6,51.5,28.8,20.9,14,Seedling,Summer,South Zone,High,Shoot Fly
+30.4,86.9,92.6,83.7,13.6,45,Flowering,Kharif,South Zone,High,Stem Borer
+26.9,85.1,140.0,64.2,9.2,60,Flowering,Kharif,South Zone,High,Stem Borer
+24.5,60.8,62.5,40.0,8.0,24,Seedling,Kharif,West Zone,Low,Cutworm
+33.3,60.2,39.3,50.7,16.9,11,Seedling,Kharif,East Zone,Medium,Shoot Fly
+28.1,74.4,36.0,46.4,10.1,52,Maturity,Rabi,Central Zone,Low,Aphids
+29.0,88.5,110.9,57.0,16.1,37,Vegetative,Kharif,West Zone,High,Fall Armyworm
+25.3,89.3,160.6,84.0,5.8,35,Flowering,Kharif,Central Zone,High,Corn Rootworm
+30.4,70.0,98.7,42.8,11.3,95,Maturity,Kharif,North Zone,Medium,Corn Earworm
+23.7,93.3,145.6,83.4,8.0,58,Flowering,Kharif,West Zone,High,Corn Rootworm
+23.5,83.1,49.9,53.1,9.2,40,Maturity,Rabi,East Zone,Low,Aphids
+23.9,81.0,131.0,84.6,6.2,39,Vegetative,Kharif,North Zone,High,Corn Rootworm
+32.3,79.5,85.0,72.2,14.6,50,Flowering,Summer,West Zone,Medium,Fall Armyworm
+35.5,49.2,7.8,32.8,7.5,60,Maturity,Summer,West Zone,Medium,Termites
+30.5,81.4,159.4,85.7,7.4,31,Flowering,Kharif,South Zone,Medium,Stem Borer
+29.0,88.3,163.0,,9.4,64,Vegetative,Rabi,North Zone,Medium,Stem Borer
+28.6,80.1,147.3,61.6,3.7,43,Vegetative,Kharif,Central Zone,Medium,Stem Borer
+23.9,79.9,137.9,76.6,4.2,39,Flowering,Rabi,South Zone,Medium,Corn Rootworm
+27.9,83.9,131.7,73.5,5.9,46,Flowering,Kharif,East Zone,Medium,Corn Rootworm
+29.7,77.4,151.3,70.8,7.3,35,Flowering,Kharif,East Zone,High,Stem Borer
+22.8,89.3,69.8,57.6,9.6,46,Vegetative,Rabi,Central Zone,High,Pink Stem Borer
+27.1,82.8,81.2,65.7,8.5,54,Vegetative,Rabi,Central Zone,High,Stem Borer
+24.2,66.2,43.3,52.3,8.1,7,Seedling,Rabi,South Zone,High,Cutworm
+24.2,72.7,40.6,52.7,2.5,45,Flowering,Rabi,East Zone,Medium,Aphids
+30.8,69.7,136.3,82.3,11.6,35,Vegetative,Kharif,East Zone,Medium,White Grub
+34.9,53.3,45.4,47.3,18.4,13,Seedling,Kharif,Central Zone,Medium,Shoot Fly
