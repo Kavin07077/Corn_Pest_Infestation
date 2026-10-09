@@ -8,6 +8,7 @@ from routes.preprocess_routes import preprocess_bp
 from routes.analysis_routes import analysis_bp
 from routes.model_routes import model_bp
 from routes.predict_routes import predict_bp
+from routes.weather_routes import weather_bp
 
 def create_app():
     app = Flask(__name__)
@@ -22,6 +23,7 @@ def create_app():
     app.register_blueprint(analysis_bp)
     app.register_blueprint(model_bp)
     app.register_blueprint(predict_bp)
+    app.register_blueprint(weather_bp)
 
     @app.route('/', methods=['GET'])
     @app.route('/api', methods=['GET'])

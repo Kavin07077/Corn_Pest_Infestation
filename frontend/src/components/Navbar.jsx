@@ -106,7 +106,7 @@ export default function Navbar({ onMenuToggle, activeTitle }) {
           borderRadius: '10px',
           backgroundColor: 'rgba(255, 255, 255, 0.05)',
           border: '1px solid rgba(255, 255, 255, 0.08)'
-        }}>
+        }} className="academic-user-pill">
           <UserCheck style={{ width: '16px', height: '16px', color: '#10b981' }} />
           <span style={{ fontSize: '0.82rem', fontWeight: 600, color: '#e2e8f0' }}>
             Agronomist Researcher

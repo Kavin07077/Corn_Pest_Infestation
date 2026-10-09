@@ -1,8 +1,10 @@
-import React, { useState, useEffect } from 'react';
-import { Search, Thermometer, Droplets, Wind, Calendar, Sprout, MapPin, AlertCircle, Sparkles } from 'lucide-react';
+import React, { useState, useEffect, useCallback } from 'react';
+import { useLocation } from 'react-router-dom';
+import { Thermometer, AlertCircle, Sparkles, Sprout, CheckCircle2, Info } from 'lucide-react';
 import LoadingSpinner from '../components/LoadingSpinner';
 import PredictionResultModal from './PredictionResultModal';
 import { api } from '../services/api';
+import { useAgroClimate } from '../context/AgroClimateContext';
 
 export default function PredictionPage() {
   const [loading, setLoading] = useState(true);
@@ -11,6 +13,47 @@ export default function PredictionPage() {
   const [formData, setFormData] = useState({});
   const [validationErr, setValidationErr] = useState(null);
   const [predictionResult, setPredictionResult] = useState(null);
+  const [syncedNotice, setSyncedNotice] = useState(null);
+
+  const locationHook = useLocation();
+  const { data: weatherData, selectedLocation } = useAgroClimate();
+
+  const handleSyncWithWeather = useCallback(() => {
+    if (!weatherData) return;
+
+    setFormData(prev => {
+      const next = { ...prev };
+      if (modelInfo?.feature_names?.includes('Temperature') && weatherData.temperature !== null) {
+        next.Temperature = Math.round(weatherData.temperature);
+      }
+      if (modelInfo?.feature_names?.includes('Humidity') && weatherData.humidity !== null) {
+        next.Humidity = Math.round(weatherData.humidity);
+      }
+      if (modelInfo?.feature_names?.includes('Rainfall') && weatherData.rainfall !== null) {
+        next.Rainfall = Math.round(weatherData.rainfall);
+      }
+      if (modelInfo?.feature_names?.includes('Soil_Moisture') && weatherData.soilMoisture !== null) {
+        next.Soil_Moisture = Math.round(weatherData.soilMoisture);
+      }
+      if (modelInfo?.feature_names?.includes('Wind_Speed') && weatherData.windSpeed !== null) {
+        next.Wind_Speed = Math.round(weatherData.windSpeed);
+      }
+      if (modelInfo?.feature_names?.includes('Location') && selectedLocation?.zone) {
+        next.Location = selectedLocation.zone;
+      }
+      return next;
+    });
+
+    const rainCm = Math.round(weatherData.rainfallCm !== undefined ? weatherData.rainfallCm : (weatherData.rainfall / 10));
+    const humCm = Math.round(weatherData.humidityCm !== undefined ? weatherData.humidityCm : (weatherData.humidity * 0.05));
+    const tempVal = Math.round(weatherData.temperature);
+    const humVal = Math.round(weatherData.humidity);
+    const rainVal = Math.round(weatherData.rainfall);
+    const soilVal = Math.round(weatherData.soilMoisture);
+    const windVal = Math.round(weatherData.windSpeed);
+
+    setSyncedNotice(`Synchronized readings from ${selectedLocation?.name || 'Selected Farm'}: Temperature ${tempVal}°C (Deg), Humidity ${humCm} cm (${humVal}%), Rainfall ${rainCm} cm (${rainVal} mm), Soil Moisture ${soilVal}%, Wind Speed ${windVal} km/h.`);
+  }, [weatherData, modelInfo, selectedLocation]);
 
   useEffect(() => {
     async function loadFormSchema() {
@@ -47,6 +90,13 @@ export default function PredictionPage() {
     }
     loadFormSchema();
   }, []);
+
+  // Check if routed with ?sync=live or state
+  useEffect(() => {
+    if (locationHook.search.includes('sync=live') && weatherData && modelInfo) {
+      handleSyncWithWeather();
+    }
+  }, [locationHook.search, weatherData, modelInfo, handleSyncWithWeather]);
 
   const handleChange = (field, value) => {
     setFormData(prev => ({
@@ -117,6 +167,94 @@ export default function PredictionPage() {
 
       {/* Main Prediction Input Form */}
       <form onSubmit={handlePredict} style={{ display: 'flex', flexDirection: 'column', gap: '1.5rem' }}>
+        {/* Live Agro-Climatic Sync Card */}
+        <div className="glass-card" style={{
+          padding: '1.4rem 1.75rem',
+          border: '1px solid rgba(16, 185, 129, 0.35)',
+          background: 'linear-gradient(135deg, rgba(16, 185, 129, 0.1) 0%, rgba(6, 182, 212, 0.06) 100%)'
+        }}>
+          <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', flexWrap: 'wrap', gap: '1rem' }}>
+            <div style={{ display: 'flex', alignItems: 'center', gap: '0.75rem' }}>
+              <div style={{
+                width: '36px',
+                height: '36px',
+                borderRadius: '10px',
+                background: 'rgba(16, 185, 129, 0.2)',
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+                color: '#10b981'
+              }}>
+                <Sparkles style={{ width: '20px', height: '20px' }} />
+              </div>
+              <div>
+                <h3 style={{ fontSize: '1rem', fontWeight: 700, color: '#f8fafc', margin: 0 }}>
+                  Live Agro-Climatic Feature Synchronization
+                </h3>
+                <p style={{ fontSize: '0.82rem', color: '#94a3b8', margin: '3px 0 0 0' }}>
+                  Open-Meteo readings for <strong style={{ color: '#38bdf8' }}>{selectedLocation?.name}</strong>: 
+                  {weatherData ? (
+                    <span style={{ color: '#e2e8f0' }}> {Math.round(weatherData.temperature)}°C (Deg) &bull; {Math.round(weatherData.humidityCm !== undefined ? weatherData.humidityCm : weatherData.humidity * 0.05)} cm Humidity ({Math.round(weatherData.humidity)}% RH) &bull; {Math.round(weatherData.rainfallCm !== undefined ? weatherData.rainfallCm : weatherData.rainfall / 10)} cm Rainfall ({Math.round(weatherData.rainfall)} mm) &bull; {Math.round(weatherData.soilMoisture)}% Soil Moisture &bull; {Math.round(weatherData.windSpeed)} km/h Wind</span>
+                  ) : (
+                    <span style={{ color: '#94a3b8' }}> Fetching real-time field data...</span>
+                  )}
+                </p>
+              </div>
+            </div>
+
+            <button
+              type="button"
+              onClick={handleSyncWithWeather}
+              disabled={!weatherData}
+              className="btn-primary"
+              style={{
+                padding: '0.6rem 1.2rem',
+                fontSize: '0.86rem',
+                borderRadius: '10px',
+                boxShadow: '0 4px 15px rgba(16, 185, 129, 0.35)'
+              }}
+            >
+              <Sparkles style={{ width: '16px', height: '16px' }} />
+              <span>Sync Live Weather Readings</span>
+            </button>
+          </div>
+
+          {syncedNotice && (
+            <div style={{
+              marginTop: '0.85rem',
+              padding: '0.55rem 0.95rem',
+              borderRadius: '8px',
+              backgroundColor: 'rgba(16, 185, 129, 0.16)',
+              border: '1px solid rgba(16, 185, 129, 0.35)',
+              color: '#34d399',
+              fontSize: '0.82rem',
+              display: 'flex',
+              alignItems: 'center',
+              gap: '0.5rem'
+            }}>
+              <CheckCircle2 style={{ width: '16px', height: '16px', flexShrink: 0 }} />
+              <span>{syncedNotice}</span>
+            </div>
+          )}
+
+          <div style={{
+            marginTop: '0.85rem',
+            paddingTop: '0.75rem',
+            borderTop: '1px solid rgba(255, 255, 255, 0.07)',
+            fontSize: '0.74rem',
+            color: '#64748b',
+            display: 'flex',
+            alignItems: 'flex-start',
+            gap: '0.4rem',
+            lineHeight: 1.45
+          }}>
+            <Info style={{ width: '14px', height: '14px', color: '#64748b', flexShrink: 0, marginTop: '2px' }} />
+            <span>
+              <strong>Scientific Agronomy Principle:</strong> Real-time environmental readings provide empirical input features into the trained classification models. While specific thermal, moisture, and wind dynamics correlate with pest developmental cycles, ambient weather conditions alone do not confirm physical crop infestation. Field trap scouting and plant symptom scouting remain essential for physical confirmation.
+            </span>
+          </div>
+        </div>
+
         {/* Section 1: Environmental Parameters */}
         <div className="glass-card" style={{ padding: '1.75rem' }}>
           <div style={{ display: 'flex', alignItems: 'center', gap: '0.6rem', marginBottom: '1.25rem' }}>

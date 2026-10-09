@@ -258,3 +258,32 @@ select:focus {
 .data-table tbody tr:hover {
   background: rgba(255, 255, 255, 0.03);
 }
+
+/* Responsive Sidebar & Overlay for Desktop and Mobile */
+.sidebar-mobile-overlay {
+  display: none;
+}
+
+@media (max-width: 1024px) {
+  .sidebar-mobile-overlay {
+    display: block;
+    position: fixed;
+    inset: 0;
+    background-color: rgba(0, 0, 0, 0.65);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    z-index: 40;
+    cursor: pointer;
+  }
+
+  .mobile-close-btn {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    padding: 0.35rem;
+    border-radius: 8px;
+    background: rgba(255, 255, 255, 0.06) !important;
+    color: #94a3b8;
+  }
+}
+

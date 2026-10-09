@@ -25,19 +25,20 @@ const navItems = [
 ];
 
 export default function Sidebar({ isOpen, onClose }) {
+  const handleNavClick = () => {
+    if (typeof window !== 'undefined' && window.innerWidth <= 1024) {
+      onClose();
+    }
+  };
+
   return (
     <>
-      {/* Mobile overlay */}
+      {/* Mobile overlay - strictly for mobile viewports */}
       {isOpen && (
         <div 
           onClick={onClose}
-          style={{
-            position: 'fixed',
-            inset: 0,
-            backgroundColor: 'rgba(0, 0, 0, 0.6)',
-            backdropFilter: 'blur(4px)',
-            zIndex: 40
-          }}
+          className="sidebar-mobile-overlay"
+          aria-hidden="true"
         />
       )}
 
@@ -121,7 +122,7 @@ export default function Sidebar({ isOpen, onClose }) {
                 <li key={item.path}>
                   <NavLink
                     to={item.path}
-                    onClick={onClose}
+                    onClick={handleNavClick}
                     style={({ isActive }) => ({
                       display: 'flex',
                       alignItems: 'center',

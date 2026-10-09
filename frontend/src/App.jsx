@@ -10,10 +10,12 @@ import DataMiningModels from './pages/DataMiningModels';
 import PredictionPage from './pages/PredictionPage';
 import PredictionHistory from './pages/PredictionHistory';
 import AboutProject from './pages/AboutProject';
+import { AgroClimateProvider } from './context/AgroClimateContext';
 
 export default function App() {
   return (
-    <BrowserRouter>
+    <AgroClimateProvider>
+      <BrowserRouter>
       <Routes>
         <Route path="/login" element={<Login />} />
 
@@ -32,5 +34,6 @@ export default function App() {
         <Route path="*" element={<Navigate to="/dashboard" replace />} />
       </Routes>
     </BrowserRouter>
+  </AgroClimateProvider>
   );
 }
